@@ -22,4 +22,5 @@ proteins.each do |prot_seq_name|
     system(command)
   end
   threads.each {|t| t.join} if threads.size == 4
+  threads = []
 end
