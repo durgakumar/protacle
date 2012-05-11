@@ -6,7 +6,7 @@ FileUtils.rm_rf 'ppdir'
 Dir.mkdir 'ppdir'
 File.open(prot_list_file_fullpath, 'r') do |infile|
   while (prot_seq_name = infile.gets)
-    protein_file_fullpath = "#{dataset_folder_fullpath}/#{prot_seq_name}"
+    protein_file_fullpath = "#{dataset_folder_fullpath}/#{prot_seq_name.chomp}"
     uniprot_code = "UNIDENTIFIED"
     File.open(protein_file_fullpath, 'r') {|infile| uniprot_code = infile.gets.split('|')[1]}
     out_dir_path = "ppdir/#{uniprot_code}"
