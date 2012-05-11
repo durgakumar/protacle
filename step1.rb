@@ -2,6 +2,8 @@ require 'fileutils'
 
 dataset_folder_fullpath = "/mnt/opt/data/pp1_12_exercise/dataset/fasta"
 prot_list_file_fullpath = "/mnt/opt/data/pp1_12_exercise/groups/101/101.txt"
+
+#i delete the old results
 FileUtils.rm_rf 'ppdir'
 Dir.mkdir 'ppdir'
 
