@@ -29,11 +29,11 @@ end
 threads = []
 
 proteins.each do |prot_seq_name|
-    protein_file_fullpath = "#{dataset_folder_fullpath}/#{prot_seq_name}"
-    out_dir_path = "ppdir/#{prot_seq_name.gsub('.fasta','')}"
     unless File.exists? "#{out_dir_path}/query.asp"
       #create a new thread for every sequence
         threads << Thread.new(prot_seq_name) do |prot_seq_name|
+          protein_file_fullpath = "#{dataset_folder_fullpath}/#{prot_seq_name}"
+          out_dir_path = "ppdir/#{prot_seq_name.gsub('.fasta','')}"
           Dir.mkdir out_dir_path unless File.exists? out_dir_path
           command = "/usr/bin/predictprotein --seqfile #{protein_file_fullpath} --target=all --target=optional --output-dir #{out_dir_path}  --nouse-cache --bigblastdb=/var/tmp/rost_db/data/big/big --big80blastdb=/var/tmp/rost_db/data/big/big_80 --pfam2db=/var/tmp/rost_db/data/pfam_legacy/Pfam_ls --pfam3db=/var/tmp/rost_db/data/pfam/Pfam-A.hmm --prositeconvdat=/var/tmp/rost_db/data/prosite/prosite_convert.dat --prositedat=/var/tmp/rost_db/data/prosite/prosite.dat --swissblastdb=/var/tmp/rost_db/data/swissprot/uniprot_sprot"
           system(command)
