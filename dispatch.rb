@@ -2,8 +2,8 @@
 #the script connects to all the servers in the labs and calls the provided command on each server for a subset of
 #the provided input. requires ssh and sshpass (linux system, probably works on mac too)
 
-USERNAME="cataluccia"
-PASSWORD="nrStYrntzJ1I"
+USERNAME="user"
+PASSWORD="pass"
 KILLCOMMAND="killall -u #{USERNAME}"
 
 input_size = ARGV[1].to_i
