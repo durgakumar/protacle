@@ -18,7 +18,7 @@ public class main {
 		sc = new Scanner(System.in);
 		String password = sc.next();
 		System.out.println(username +  "     " +password);
-		connection.connection(username,password);
+		connection.dispatchJobs(username,password);
 	}
 
 }
