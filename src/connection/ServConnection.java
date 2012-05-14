@@ -6,7 +6,8 @@ import java.io.IOException;
 import java.util.Scanner;
 
 import exercise1.FileGenerator;
-
+import java.util.ArrayList;
+import java.util.Arrays;
 import net.neoremind.sshxcute.core.ConnBean;
 import net.neoremind.sshxcute.core.Result;
 import net.neoremind.sshxcute.core.SSHExec;
@@ -17,41 +18,52 @@ import net.neoremind.sshxcute.task.impl.ExecCommand;
 public class ServConnection {
 	
 	SSHExec ssh = null;
+  ArrayList<String> machines = new ArrayList(Arrays.asList("01","02","03","06","07","08"));
+  step_size = (input_size / machine_numbers.size).floor
+  
+  private int inputSize = 0;
+  private string command = 
+  
+  public void setInputSize(int size) {
+    this.inputSize = size;
+  }
+  
+  public void setCommand(String command) {
+    this.command = command;
+  }
 	
-	public void connection(String username,String password) {
+	public void dispatchJobs(String username,String password) {
+    int startIndex = 0;
+    int stepSize = inputSize / machines.size();
+    int endIndex = stepSize;
 		FileGenerator fileGenerator = new FileGenerator();
-		try {
-			ConnBean cb = new ConnBean(
-					"i12k-biolab01.informatik.tu-muenchen.de", username,password);
-			CustomTask task = new ExecCommand("rm -r /mnt/home/student/orhann/ProteinPrediction");
-			ssh = SSHExec.getInstance(cb);
-			ssh.connect();
-			ssh.exec(task);
-			CustomTask task2 = new ExecCommand("mkdir /mnt/home/student/orhann/ProteinPrediction");
-			ssh.exec(task2);
-			String initialAdressSrc = "/Users/nevzatorhan/Documents/workspace/ProteinPrediction/src";
-			String destinationAdress = "/mnt/home/student/orhann/ProteinPrediction";
-			ssh.uploadAllDataToServer(initialAdressSrc, destinationAdress);
-			
-			/*CustomTask task1 = new ExecCommand("javac " + destinationAdress + "/src/exercise1/main.java");
-			Result result = ssh.exec(task1);
-			 if (result.isSuccess)
-             {
-                     System.out.println("Return code: " + result.rc);
-                     System.out.println("sysout: " + result.sysout);
-             }
-             else
-             {
-                     System.out.println("Return code: " + result.rc);
-                     System.out.println("error message: " + result.error_msg);
-             }*/
-		} catch (Exception e) {
-			System.out.println(e.getMessage());
-			e.printStackTrace();
-		}
-		finally{
-			ssh.disconnect();
-		}
-
+    for (String machineNumber : machines) {
+      try {
+        if machineNumber == machines.get(machine.size()-1) {
+          endIndex = inputSize;
+        }
+        String address = "i12k-biolab" + machineNumber + ".informatik.tu-muenchen.de";
+        System.out.println(address);
+        ConnBean cb = new ConnBean(address, username,password);
+        ssh = SSHExec.getInstance(cb);
+        ssh.connect();
+        String remoteCommand = "nohup java "+remoteCommand+" "+startIndex+" "+endIndex+" > machine"+machineNum+".out &";
+        System.out.println(remoteCommand);
+        ssh.exec(remoteCommand);
+        endIndex += stepSize;
+        startIndex = endIndex - stepSize + 1;
+      } catch (Exception e) {
+        System.out.println(e.getMessage());
+        e.printStackTrace();
+      }
+      finally{
+        ssh.disconnect();
+      }
+    }
 	}
+  
+  public ServConnection(String command, int inputSize) {
+    this.setCommand(command);
+    this.setInputSize(inputSize);
+  }
 }

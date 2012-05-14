@@ -9,9 +9,7 @@ public class main {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
-		ServConnection connection = new ServConnection();
+		ServConnection connection = new ServConnection(args[0],Integer.parseInt(args[1]));
 		System.out.println("username");
 		Scanner sc;
 		sc = new Scanner(System.in);
