@@ -1,0 +1,1618 @@
+
+=============== [2012/05/13 18:38:20, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[18:38:20] INFO:    SSHExec initializing ...
+[18:38:20] INFO:    Session initialized and associated with user credential aqAwhaD72Vd
+[18:38:20] INFO:    SSHExec initialized successfully
+[18:38:20] INFO:    SSHExec trying to connect orhann@i12k-biolab02.informatik.tu-muenchen.de
+[18:38:41] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: Auth fail
+[18:38:41] ERROR:   session is down
+
+=============== [2012/05/13 18:40:07, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[18:40:07] INFO:    SSHExec initializing ...
+[18:40:07] INFO:    Session initialized and associated with user credential aqAdwhaD72Vd
+[18:40:07] INFO:    SSHExec initialized successfully
+[18:40:07] INFO:    SSHExec trying to connect orhann@i12k-biolab02.informatik.tu-muenchen.de
+[18:41:22] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: java.net.ConnectException: Operation timed out
+[18:41:22] ERROR:   session is down
+[18:41:22] ERROR:   session is down
+
+=============== [2012/05/13 18:43:02, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[18:43:02] INFO:    SSHExec initializing ...
+[18:43:02] INFO:    Session initialized and associated with user credential aqAdwhaD72Vd
+[18:43:02] INFO:    SSHExec initialized successfully
+[18:43:02] INFO:    SSHExec trying to connect orhann@i12k-biolab01.informatik.tu-muenchen.de
+[18:43:03] INFO:    SSH connection established
+[18:43:03] INFO:    Command is pwd
+[18:43:03] INFO:    Connection channel established succesfully
+[18:43:03] INFO:    Start to run command
+[18:43:03] INFO:    /mnt/home/student/orhann
+
+[18:43:03] INFO:    Connection channel closed
+[18:43:03] INFO:    Check if exec success or not ... 
+[18:43:03] INFO:    Execute successfully for command: pwd
+[18:43:03] INFO:    Now wait 5 seconds to begin next task ...
+[18:43:08] INFO:    Connection channel disconnect
+[18:43:08] INFO:    Command is pwd
+[18:43:08] INFO:    Connection channel established succesfully
+[18:43:08] INFO:    Start to run command
+[18:43:08] INFO:    /mnt/home/student/orhann
+
+[18:43:08] INFO:    Connection channel closed
+[18:43:08] INFO:    Check if exec success or not ... 
+[18:43:08] INFO:    Execute successfully for command: pwd
+[18:43:08] INFO:    Now wait 5 seconds to begin next task ...
+[18:43:13] INFO:    Connection channel disconnect
+
+=============== [2012/05/13 18:45:01, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[18:45:01] INFO:    SSHExec initializing ...
+[18:45:01] INFO:    Session initialized and associated with user credential aqAdwhaD72Vd
+[18:45:01] INFO:    SSHExec initialized successfully
+[18:45:01] INFO:    SSHExec trying to connect orhann@i12k-biolab01.informatik.tu-muenchen.de
+[18:45:04] INFO:    SSH connection established
+[18:45:04] INFO:    Command is pwd
+[18:45:06] INFO:    Connection channel established succesfully
+[18:45:06] INFO:    Start to run command
+[18:45:06] INFO:    /mnt/home/student/orhann
+
+[18:45:06] INFO:    Connection channel closed
+[18:45:06] INFO:    Check if exec success or not ... 
+[18:45:06] INFO:    Execute successfully for command: pwd
+[18:45:06] INFO:    Now wait 5 seconds to begin next task ...
+[18:45:11] INFO:    Connection channel disconnect
+[18:45:11] INFO:    Command is pwd
+[18:45:11] INFO:    Connection channel established succesfully
+[18:45:11] INFO:    Start to run command
+[18:45:12] INFO:    /mnt/home/student/orhann
+
+[18:45:12] INFO:    Connection channel closed
+[18:45:12] INFO:    Check if exec success or not ... 
+[18:45:12] INFO:    Execute successfully for command: pwd
+[18:45:12] INFO:    Now wait 5 seconds to begin next task ...
+
+=============== [2012/05/13 18:46:17, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[18:46:17] INFO:    SSHExec initializing ...
+[18:46:17] INFO:    Session initialized and associated with user credential aqAdwhaD72Vd
+[18:46:17] INFO:    SSHExec initialized successfully
+[18:46:17] INFO:    SSHExec trying to connect orhann@i12k-biolab01.informatik.tu-muenchen.de
+[18:46:18] INFO:    SSH connection established
+[18:46:18] INFO:    Command is pwd
+[18:46:19] INFO:    Connection channel established succesfully
+[18:46:19] INFO:    Start to run command
+[18:46:19] INFO:    /mnt/home/student/orhann
+
+[18:46:19] INFO:    Connection channel closed
+[18:46:19] INFO:    Check if exec success or not ... 
+[18:46:19] INFO:    Execute successfully for command: pwd
+[18:46:19] INFO:    Now wait 5 seconds to begin next task ...
+[18:46:24] INFO:    Connection channel disconnect
+[18:46:24] INFO:    Command is pwd
+[18:46:24] INFO:    Connection channel established succesfully
+[18:46:24] INFO:    Start to run command
+[18:46:24] INFO:    /mnt/home/student/orhann
+
+[18:46:24] INFO:    Connection channel closed
+[18:46:24] INFO:    Check if exec success or not ... 
+[18:46:24] INFO:    Execute successfully for command: pwd
+[18:46:24] INFO:    Now wait 5 seconds to begin next task ...
+[18:46:29] INFO:    Connection channel disconnect
+[18:46:29] INFO:    SSH connection shutdown
+
+=============== [2012/05/13 18:58:12, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[18:58:12] INFO:    SSHExec initializing ...
+[18:58:13] INFO:    Session initialized and associated with user credential aqAdwhaD72Vd
+[18:58:13] INFO:    SSHExec initialized successfully
+[18:58:13] INFO:    SSHExec trying to connect orhann@i12k-biolab01.informatik.tu-muenchen.de
+[18:58:22] INFO:    SSH connection established
+[18:58:23] INFO:    Command is pwd
+[18:58:26] INFO:    Connection channel established succesfully
+[18:58:26] INFO:    Start to run command
+[18:58:26] INFO:    /mnt/home/student/orhann
+
+[18:58:27] INFO:    Connection channel closed
+[18:58:27] INFO:    Check if exec success or not ... 
+[18:58:27] INFO:    Execute successfully for command: pwd
+[18:58:27] INFO:    Now wait 5 seconds to begin next task ...
+[18:58:32] INFO:    Connection channel disconnect
+[18:58:32] INFO:    Command is pwd
+[18:58:32] INFO:    Connection channel established succesfully
+[18:58:32] INFO:    Start to run command
+[18:58:32] INFO:    /mnt/home/student/orhann
+
+[18:58:32] INFO:    Connection channel closed
+[18:58:32] INFO:    Check if exec success or not ... 
+[18:58:32] INFO:    Execute successfully for command: pwd
+[18:58:33] INFO:    Now wait 5 seconds to begin next task ...
+[18:58:38] INFO:    Connection channel disconnect
+[18:58:38] INFO:    SSH connection shutdown
+
+=============== [2012/05/14 12:42:17, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[12:42:17] INFO:    SSHExec initializing ...
+[12:42:17] ERROR:   Disconnect fails with the following exception: java.lang.NullPointerException
+
+=============== [2012/05/14 12:44:24, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[12:44:24] INFO:    SSHExec initializing ...
+[12:44:24] INFO:    Session initialized and associated with user credential aqAdwhaD72Vd
+[12:44:24] INFO:    SSHExec initialized successfully
+[12:44:24] INFO:    SSHExec trying to connect orhann@i12k-biolab01.informatik.tu-muenchen.de
+[12:44:25] INFO:    SSH connection established
+[12:44:25] INFO:    SSH connection shutdown
+
+=============== [2012/05/14 12:46:04, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[12:46:04] INFO:    SSHExec initializing ...
+[12:46:04] INFO:    Session initialized and associated with user credential aqAdwhaD72Vd
+[12:46:04] INFO:    SSHExec initialized successfully
+[12:46:04] INFO:    SSHExec trying to connect orhann@i12k-biolab01.informatik.tu-muenchen.de
+[12:46:05] INFO:    SSH connection established
+[12:46:05] INFO:    SSH connection shutdown
+
+=============== [2012/05/14 12:47:02, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[12:47:02] INFO:    SSHExec initializing ...
+[12:47:02] INFO:    Session initialized and associated with user credential aqAdwhaD72Vd
+[12:47:02] INFO:    SSHExec initialized successfully
+[12:47:02] INFO:    SSHExec trying to connect orhann@i12k-biolab01.informatik.tu-muenchen.de
+[12:47:03] INFO:    SSH connection established
+[12:47:03] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/.classpath
+[12:47:03] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/.DS_Store
+[12:47:03] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/.project
+[12:47:03] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/.settings/org.eclipse.jdt.core.prefs
+[12:47:03] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/connection/main.class
+[12:47:03] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/connection/ServConnection.class
+[12:47:03] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/exercise1/FileGenerator.class
+[12:47:03] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/exercise1/main.class
+[12:47:03] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/lib/cvsssh2.jar
+[12:47:03] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/lib/ganymed-ssh2-build251beta1.jar
+[12:47:03] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/lib/sshxcute-1.0.jar
+[12:47:03] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/.DS_Store
+[12:47:03] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/connection/main.java
+[12:47:03] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/connection/ServConnection.java
+[12:47:03] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/exercise1/.DS_Store
+[12:47:03] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/exercise1/FileGenerator.java
+[12:47:03] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/exercise1/main.java
+[12:47:03] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/lib/cvsssh2.jar
+[12:47:03] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/lib/ganymed-ssh2-build251beta1.jar
+[12:47:03] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/lib/sshxcute-1.0.jar
+[12:47:03] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/sshxcute.log
+[12:47:03] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/.classpath' to server directory '/home//ProteinPrediction'
+[12:47:04] INFO:    Connection channel established succesfully
+[12:47:04] INFO:    Start to upload
+[12:47:04] ERROR:   /Users/nevzatorhan/Documents/workspace/ProteinPrediction/.classpathcheck fails
+[12:47:04] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/.DS_Store' to server directory '/home//ProteinPrediction'
+[12:47:04] INFO:    Connection channel established succesfully
+[12:47:04] INFO:    Start to upload
+[12:47:04] ERROR:   /Users/nevzatorhan/Documents/workspace/ProteinPrediction/.DS_Storecheck fails
+[12:47:04] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/.project' to server directory '/home//ProteinPrediction'
+[12:47:04] INFO:    Connection channel established succesfully
+[12:47:04] INFO:    Start to upload
+[12:47:04] ERROR:   /Users/nevzatorhan/Documents/workspace/ProteinPrediction/.projectcheck fails
+[12:47:04] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/.settings/org.eclipse.jdt.core.prefs' to server directory '/home//ProteinPrediction/.settings'
+[12:47:04] INFO:    Connection channel established succesfully
+[12:47:04] INFO:    Start to upload
+[12:47:04] ERROR:   /Users/nevzatorhan/Documents/workspace/ProteinPrediction/.settings/org.eclipse.jdt.core.prefscheck fails
+[12:47:04] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/connection/main.class' to server directory '/home//ProteinPrediction/bin/connection'
+[12:47:05] INFO:    Connection channel established succesfully
+[12:47:05] INFO:    Start to upload
+[12:47:05] ERROR:   /Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/connection/main.classcheck fails
+[12:47:05] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/connection/ServConnection.class' to server directory '/home//ProteinPrediction/bin/connection'
+[12:47:05] INFO:    Connection channel established succesfully
+[12:47:05] INFO:    Start to upload
+[12:47:05] ERROR:   /Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/connection/ServConnection.classcheck fails
+[12:47:05] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/exercise1/FileGenerator.class' to server directory '/home//ProteinPrediction/bin/exercise1'
+[12:47:05] INFO:    Connection channel established succesfully
+[12:47:05] INFO:    Start to upload
+[12:47:05] ERROR:   /Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/exercise1/FileGenerator.classcheck fails
+[12:47:05] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/exercise1/main.class' to server directory '/home//ProteinPrediction/bin/exercise1'
+[12:47:05] INFO:    Connection channel established succesfully
+[12:47:05] INFO:    Start to upload
+[12:47:05] ERROR:   /Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/exercise1/main.classcheck fails
+[12:47:05] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/lib/cvsssh2.jar' to server directory '/home//ProteinPrediction/bin/lib'
+[12:47:05] INFO:    Connection channel established succesfully
+[12:47:05] INFO:    Start to upload
+[12:47:05] ERROR:   /Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/lib/cvsssh2.jarcheck fails
+[12:47:05] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/lib/ganymed-ssh2-build251beta1.jar' to server directory '/home//ProteinPrediction/bin/lib'
+[12:47:05] INFO:    Connection channel established succesfully
+[12:47:05] INFO:    Start to upload
+[12:47:05] ERROR:   /Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/lib/ganymed-ssh2-build251beta1.jarcheck fails
+[12:47:05] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/lib/sshxcute-1.0.jar' to server directory '/home//ProteinPrediction/bin/lib'
+[12:47:05] INFO:    SSH connection shutdown
+
+=============== [2012/05/14 12:54:33, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[12:54:33] INFO:    SSHExec initializing ...
+[12:54:33] INFO:    Session initialized and associated with user credential aqAdwhaD72Vd
+[12:54:33] INFO:    SSHExec initialized successfully
+[12:54:33] INFO:    SSHExec trying to connect orhann@i12k-biolab01.informatik.tu-muenchen.de
+[12:54:34] INFO:    SSH connection established
+[12:54:34] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/.classpath
+[12:54:34] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/.DS_Store
+[12:54:34] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/.project
+[12:54:34] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/.settings/org.eclipse.jdt.core.prefs
+[12:54:34] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/connection/main.class
+[12:54:34] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/connection/ServConnection.class
+[12:54:34] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/exercise1/FileGenerator.class
+[12:54:34] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/exercise1/main.class
+[12:54:34] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/lib/cvsssh2.jar
+[12:54:34] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/lib/ganymed-ssh2-build251beta1.jar
+[12:54:34] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/lib/sshxcute-1.0.jar
+[12:54:34] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/.DS_Store
+[12:54:34] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/connection/main.java
+[12:54:34] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/connection/ServConnection.java
+[12:54:34] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/exercise1/.DS_Store
+[12:54:34] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/exercise1/FileGenerator.java
+[12:54:34] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/exercise1/main.java
+[12:54:34] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/lib/cvsssh2.jar
+[12:54:34] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/lib/ganymed-ssh2-build251beta1.jar
+[12:54:34] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/lib/sshxcute-1.0.jar
+[12:54:34] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/sshxcute.log
+[12:54:34] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/.classpath' to server directory '/mnt/home/student/orhann///ProteinPrediction'
+[12:54:34] INFO:    Connection channel established succesfully
+[12:54:34] INFO:    Start to upload
+[12:54:34] INFO:    Upload success
+[12:54:34] INFO:    channel disconnect
+[12:54:34] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/.DS_Store' to server directory '/mnt/home/student/orhann///ProteinPrediction'
+[12:54:34] INFO:    Connection channel established succesfully
+[12:54:34] INFO:    Start to upload
+[12:54:34] INFO:    Upload success
+[12:54:34] INFO:    channel disconnect
+[12:54:34] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/.project' to server directory '/mnt/home/student/orhann///ProteinPrediction'
+[12:54:34] INFO:    Connection channel established succesfully
+[12:54:34] INFO:    Start to upload
+[12:54:34] INFO:    Upload success
+[12:54:34] INFO:    channel disconnect
+[12:54:34] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/.settings/org.eclipse.jdt.core.prefs' to server directory '/mnt/home/student/orhann///ProteinPrediction/.settings'
+[12:54:34] INFO:    Connection channel established succesfully
+[12:54:34] INFO:    Start to upload
+[12:54:34] INFO:    Upload success
+[12:54:34] INFO:    channel disconnect
+[12:54:34] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/connection/main.class' to server directory '/mnt/home/student/orhann///ProteinPrediction/bin/connection'
+[12:54:34] INFO:    Connection channel established succesfully
+[12:54:34] INFO:    Start to upload
+[12:54:34] INFO:    Upload success
+[12:54:34] INFO:    channel disconnect
+[12:54:34] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/connection/ServConnection.class' to server directory '/mnt/home/student/orhann///ProteinPrediction/bin/connection'
+[12:54:35] INFO:    Connection channel established succesfully
+[12:54:35] INFO:    Start to upload
+[12:54:35] INFO:    Upload success
+[12:54:35] INFO:    channel disconnect
+[12:54:35] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/exercise1/FileGenerator.class' to server directory '/mnt/home/student/orhann///ProteinPrediction/bin/exercise1'
+[12:54:35] INFO:    Connection channel established succesfully
+[12:54:35] INFO:    Start to upload
+[12:54:35] INFO:    Upload success
+[12:54:35] INFO:    channel disconnect
+[12:54:35] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/exercise1/main.class' to server directory '/mnt/home/student/orhann///ProteinPrediction/bin/exercise1'
+[12:54:35] INFO:    Connection channel established succesfully
+[12:54:35] INFO:    Start to upload
+[12:54:35] INFO:    Upload success
+[12:54:35] INFO:    channel disconnect
+[12:54:35] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/lib/cvsssh2.jar' to server directory '/mnt/home/student/orhann///ProteinPrediction/bin/lib'
+[12:54:35] INFO:    Connection channel established succesfully
+[12:54:35] INFO:    Start to upload
+[12:54:35] INFO:    Upload success
+[12:54:35] INFO:    channel disconnect
+[12:54:35] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/lib/ganymed-ssh2-build251beta1.jar' to server directory '/mnt/home/student/orhann///ProteinPrediction/bin/lib'
+[12:54:35] INFO:    Connection channel established succesfully
+[12:54:35] INFO:    Start to upload
+[12:54:36] INFO:    Upload success
+[12:54:36] INFO:    channel disconnect
+[12:54:36] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/lib/sshxcute-1.0.jar' to server directory '/mnt/home/student/orhann///ProteinPrediction/bin/lib'
+[12:54:36] INFO:    Connection channel established succesfully
+[12:54:36] INFO:    Start to upload
+[12:54:36] INFO:    Upload success
+[12:54:36] INFO:    channel disconnect
+[12:54:36] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/.DS_Store' to server directory '/mnt/home/student/orhann///ProteinPrediction/src'
+[12:54:36] INFO:    Connection channel established succesfully
+[12:54:36] INFO:    Start to upload
+[12:54:36] INFO:    Upload success
+[12:54:36] INFO:    channel disconnect
+[12:54:36] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/connection/main.java' to server directory '/mnt/home/student/orhann///ProteinPrediction/src/connection'
+[12:54:36] INFO:    Connection channel established succesfully
+[12:54:36] INFO:    Start to upload
+[12:54:36] INFO:    Upload success
+[12:54:36] INFO:    channel disconnect
+[12:54:37] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/connection/ServConnection.java' to server directory '/mnt/home/student/orhann///ProteinPrediction/src/connection'
+[12:54:37] INFO:    Connection channel established succesfully
+[12:54:37] INFO:    Start to upload
+[12:54:37] INFO:    Upload success
+[12:54:37] INFO:    channel disconnect
+[12:54:37] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/exercise1/.DS_Store' to server directory '/mnt/home/student/orhann///ProteinPrediction/src/exercise1'
+[12:54:37] INFO:    Connection channel established succesfully
+[12:54:37] INFO:    Start to upload
+[12:54:37] INFO:    Upload success
+[12:54:37] INFO:    channel disconnect
+[12:54:37] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/exercise1/FileGenerator.java' to server directory '/mnt/home/student/orhann///ProteinPrediction/src/exercise1'
+[12:54:37] INFO:    Connection channel established succesfully
+[12:54:37] INFO:    Start to upload
+[12:54:37] INFO:    Upload success
+[12:54:37] INFO:    channel disconnect
+[12:54:37] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/exercise1/main.java' to server directory '/mnt/home/student/orhann///ProteinPrediction/src/exercise1'
+[12:54:37] INFO:    Connection channel established succesfully
+[12:54:37] INFO:    Start to upload
+[12:54:37] INFO:    Upload success
+[12:54:37] INFO:    channel disconnect
+[12:54:37] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/lib/cvsssh2.jar' to server directory '/mnt/home/student/orhann///ProteinPrediction/src/lib'
+[12:54:37] INFO:    Connection channel established succesfully
+[12:54:37] INFO:    Start to upload
+[12:54:37] INFO:    Upload success
+[12:54:37] INFO:    channel disconnect
+[12:54:37] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/lib/ganymed-ssh2-build251beta1.jar' to server directory '/mnt/home/student/orhann///ProteinPrediction/src/lib'
+[12:54:37] INFO:    Connection channel established succesfully
+[12:54:37] INFO:    Start to upload
+[12:54:38] INFO:    Upload success
+[12:54:38] INFO:    channel disconnect
+[12:54:38] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/lib/sshxcute-1.0.jar' to server directory '/mnt/home/student/orhann///ProteinPrediction/src/lib'
+[12:54:38] INFO:    Connection channel established succesfully
+[12:54:38] INFO:    Start to upload
+[12:54:38] INFO:    Upload success
+[12:54:38] INFO:    channel disconnect
+[12:54:38] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/sshxcute.log' to server directory '/mnt/home/student/orhann///ProteinPrediction'
+[12:54:38] INFO:    Connection channel established succesfully
+[12:54:38] INFO:    Start to upload
+[12:54:38] INFO:    Upload success
+[12:54:38] INFO:    channel disconnect
+[12:54:38] INFO:    SSH connection shutdown
+
+=============== [2012/05/14 13:16:33, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[13:16:33] INFO:    SSHExec initializing ...
+[13:16:33] INFO:    Session initialized and associated with user credential aqAdwhaD72Vd
+[13:16:33] INFO:    SSHExec initialized successfully
+[13:16:33] INFO:    SSHExec trying to connect orhann@i12k-biolab01.informatik.tu-muenchen.de
+[13:16:34] INFO:    SSH connection established
+[13:16:34] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/.classpath
+[13:16:34] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/.DS_Store
+[13:16:34] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/.project
+[13:16:34] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/.settings/org.eclipse.jdt.core.prefs
+[13:16:34] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/connection/main.class
+[13:16:34] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/connection/ServConnection.class
+[13:16:34] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/exercise1/FileGenerator.class
+[13:16:34] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/exercise1/main.class
+[13:16:34] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/lib/cvsssh2.jar
+[13:16:34] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/lib/ganymed-ssh2-build251beta1.jar
+[13:16:34] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/lib/sshxcute-1.0.jar
+[13:16:34] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/.DS_Store
+[13:16:34] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/connection/main.java
+[13:16:34] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/connection/ServConnection.java
+[13:16:34] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/exercise1/.DS_Store
+[13:16:34] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/exercise1/FileGenerator.java
+[13:16:34] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/exercise1/main.java
+[13:16:34] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/lib/cvsssh2.jar
+[13:16:34] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/lib/ganymed-ssh2-build251beta1.jar
+[13:16:34] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/lib/sshxcute-1.0.jar
+[13:16:34] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/sshxcute.log
+[13:16:34] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/.classpath' to server directory '/mnt/home/student/orhann///ProteinPrediction'
+[13:16:35] INFO:    Connection channel established succesfully
+[13:16:35] INFO:    Start to upload
+[13:16:35] INFO:    Upload success
+[13:16:35] INFO:    channel disconnect
+[13:16:35] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/.DS_Store' to server directory '/mnt/home/student/orhann///ProteinPrediction'
+[13:16:35] INFO:    Connection channel established succesfully
+[13:16:35] INFO:    Start to upload
+[13:16:35] INFO:    Upload success
+[13:16:35] INFO:    channel disconnect
+[13:16:35] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/.project' to server directory '/mnt/home/student/orhann///ProteinPrediction'
+[13:16:35] INFO:    Connection channel established succesfully
+[13:16:35] INFO:    Start to upload
+[13:16:35] INFO:    Upload success
+[13:16:35] INFO:    channel disconnect
+[13:16:35] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/.settings/org.eclipse.jdt.core.prefs' to server directory '/mnt/home/student/orhann///ProteinPrediction/.settings'
+[13:16:36] INFO:    Connection channel established succesfully
+[13:16:36] INFO:    Start to upload
+[13:16:36] INFO:    Upload success
+[13:16:36] INFO:    channel disconnect
+[13:16:36] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/connection/main.class' to server directory '/mnt/home/student/orhann///ProteinPrediction/bin/connection'
+[13:16:36] INFO:    Connection channel established succesfully
+[13:16:36] INFO:    Start to upload
+[13:16:36] INFO:    Upload success
+[13:16:36] INFO:    channel disconnect
+[13:16:36] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/connection/ServConnection.class' to server directory '/mnt/home/student/orhann///ProteinPrediction/bin/connection'
+[13:16:36] INFO:    Connection channel established succesfully
+[13:16:36] INFO:    Start to upload
+[13:16:36] INFO:    Upload success
+[13:16:36] INFO:    channel disconnect
+[13:16:36] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/exercise1/FileGenerator.class' to server directory '/mnt/home/student/orhann///ProteinPrediction/bin/exercise1'
+[13:16:36] INFO:    Connection channel established succesfully
+[13:16:36] INFO:    Start to upload
+[13:16:36] INFO:    Upload success
+[13:16:36] INFO:    channel disconnect
+[13:16:36] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/exercise1/main.class' to server directory '/mnt/home/student/orhann///ProteinPrediction/bin/exercise1'
+[13:16:36] INFO:    Connection channel established succesfully
+[13:16:36] INFO:    Start to upload
+[13:16:36] INFO:    Upload success
+[13:16:36] INFO:    channel disconnect
+[13:16:36] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/lib/cvsssh2.jar' to server directory '/mnt/home/student/orhann///ProteinPrediction/bin/lib'
+[13:16:36] INFO:    Connection channel established succesfully
+[13:16:36] INFO:    Start to upload
+[13:16:37] INFO:    Upload success
+[13:16:37] INFO:    channel disconnect
+[13:16:37] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/lib/ganymed-ssh2-build251beta1.jar' to server directory '/mnt/home/student/orhann///ProteinPrediction/bin/lib'
+[13:16:37] INFO:    Connection channel established succesfully
+[13:16:37] INFO:    Start to upload
+[13:16:37] INFO:    Upload success
+[13:16:37] INFO:    channel disconnect
+[13:16:37] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/lib/sshxcute-1.0.jar' to server directory '/mnt/home/student/orhann///ProteinPrediction/bin/lib'
+[13:16:37] INFO:    Connection channel established succesfully
+[13:16:37] INFO:    Start to upload
+[13:16:37] INFO:    Upload success
+[13:16:37] INFO:    channel disconnect
+[13:16:37] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/.DS_Store' to server directory '/mnt/home/student/orhann///ProteinPrediction/src'
+[13:16:38] INFO:    Connection channel established succesfully
+[13:16:38] INFO:    Start to upload
+[13:16:38] INFO:    Upload success
+[13:16:38] INFO:    channel disconnect
+[13:16:38] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/connection/main.java' to server directory '/mnt/home/student/orhann///ProteinPrediction/src/connection'
+[13:16:38] INFO:    Connection channel established succesfully
+[13:16:38] INFO:    Start to upload
+[13:16:38] INFO:    Upload success
+[13:16:38] INFO:    channel disconnect
+[13:16:38] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/connection/ServConnection.java' to server directory '/mnt/home/student/orhann///ProteinPrediction/src/connection'
+[13:16:38] INFO:    Connection channel established succesfully
+[13:16:38] INFO:    Start to upload
+[13:16:38] INFO:    Upload success
+[13:16:38] INFO:    channel disconnect
+[13:16:38] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/exercise1/.DS_Store' to server directory '/mnt/home/student/orhann///ProteinPrediction/src/exercise1'
+[13:16:38] INFO:    Connection channel established succesfully
+[13:16:38] INFO:    Start to upload
+[13:16:38] INFO:    Upload success
+[13:16:38] INFO:    channel disconnect
+[13:16:38] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/exercise1/FileGenerator.java' to server directory '/mnt/home/student/orhann///ProteinPrediction/src/exercise1'
+[13:16:38] INFO:    Connection channel established succesfully
+[13:16:38] INFO:    Start to upload
+[13:16:38] INFO:    Upload success
+[13:16:38] INFO:    channel disconnect
+[13:16:38] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/exercise1/main.java' to server directory '/mnt/home/student/orhann///ProteinPrediction/src/exercise1'
+[13:16:38] INFO:    Connection channel established succesfully
+[13:16:38] INFO:    Start to upload
+[13:16:38] INFO:    Upload success
+[13:16:38] INFO:    channel disconnect
+[13:16:38] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/lib/cvsssh2.jar' to server directory '/mnt/home/student/orhann///ProteinPrediction/src/lib'
+[13:16:38] INFO:    Connection channel established succesfully
+[13:16:38] INFO:    Start to upload
+[13:16:38] INFO:    Upload success
+[13:16:38] INFO:    channel disconnect
+[13:16:38] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/lib/ganymed-ssh2-build251beta1.jar' to server directory '/mnt/home/student/orhann///ProteinPrediction/src/lib'
+[13:16:38] INFO:    Connection channel established succesfully
+[13:16:38] INFO:    Start to upload
+[13:16:39] INFO:    Upload success
+[13:16:39] INFO:    channel disconnect
+[13:16:39] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/lib/sshxcute-1.0.jar' to server directory '/mnt/home/student/orhann///ProteinPrediction/src/lib'
+[13:16:39] INFO:    Connection channel established succesfully
+[13:16:39] INFO:    Start to upload
+[13:16:39] INFO:    Upload success
+[13:16:39] INFO:    channel disconnect
+[13:16:39] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/sshxcute.log' to server directory '/mnt/home/student/orhann///ProteinPrediction'
+[13:16:39] INFO:    Connection channel established succesfully
+[13:16:39] INFO:    Start to upload
+[13:16:39] INFO:    Upload success
+[13:16:39] INFO:    channel disconnect
+[13:16:39] INFO:    SSH connection shutdown
+
+=============== [2012/05/14 13:24:47, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[13:24:47] INFO:    SSHExec initializing ...
+[13:24:47] INFO:    Session initialized and associated with user credential aqAdwhaD72Vd
+[13:24:47] INFO:    SSHExec initialized successfully
+[13:24:47] INFO:    SSHExec trying to connect orhann@i12k-biolab01.informatik.tu-muenchen.de
+[13:24:48] INFO:    SSH connection established
+[13:24:48] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/.classpath
+[13:24:48] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/.DS_Store
+[13:24:48] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/.project
+[13:24:48] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/.settings/org.eclipse.jdt.core.prefs
+[13:24:48] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/connection/main.class
+[13:24:48] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/connection/ServConnection.class
+[13:24:48] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/exercise1/FileGenerator.class
+[13:24:48] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/exercise1/main.class
+[13:24:48] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/lib/cvsssh2.jar
+[13:24:48] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/lib/ganymed-ssh2-build251beta1.jar
+[13:24:48] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/lib/sshxcute-1.0.jar
+[13:24:48] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/.DS_Store
+[13:24:48] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/connection/main.java
+[13:24:48] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/connection/ServConnection.java
+[13:24:48] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/exercise1/.DS_Store
+[13:24:48] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/exercise1/FileGenerator.java
+[13:24:48] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/exercise1/main.java
+[13:24:48] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/lib/cvsssh2.jar
+[13:24:48] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/lib/ganymed-ssh2-build251beta1.jar
+[13:24:48] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/lib/sshxcute-1.0.jar
+[13:24:48] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/sshxcute.log
+[13:24:48] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/.classpath' to server directory '/mnt/home/student/orhann///ProteinPrediction'
+[13:24:48] INFO:    Connection channel established succesfully
+[13:24:48] INFO:    Start to upload
+[13:24:48] INFO:    Upload success
+[13:24:48] INFO:    channel disconnect
+[13:24:48] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/.DS_Store' to server directory '/mnt/home/student/orhann///ProteinPrediction'
+[13:24:48] INFO:    Connection channel established succesfully
+[13:24:48] INFO:    Start to upload
+[13:24:48] INFO:    Upload success
+[13:24:48] INFO:    channel disconnect
+[13:24:48] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/.project' to server directory '/mnt/home/student/orhann///ProteinPrediction'
+[13:24:49] INFO:    Connection channel established succesfully
+[13:24:49] INFO:    Start to upload
+[13:24:49] INFO:    Upload success
+[13:24:49] INFO:    channel disconnect
+[13:24:49] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/.settings/org.eclipse.jdt.core.prefs' to server directory '/mnt/home/student/orhann///ProteinPrediction/.settings'
+[13:24:49] INFO:    Connection channel established succesfully
+[13:24:49] INFO:    Start to upload
+[13:24:49] INFO:    Upload success
+[13:24:49] INFO:    channel disconnect
+[13:24:49] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/connection/main.class' to server directory '/mnt/home/student/orhann///ProteinPrediction/bin/connection'
+[13:24:49] INFO:    Connection channel established succesfully
+[13:24:49] INFO:    Start to upload
+[13:24:49] INFO:    Upload success
+[13:24:49] INFO:    channel disconnect
+[13:24:49] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/connection/ServConnection.class' to server directory '/mnt/home/student/orhann///ProteinPrediction/bin/connection'
+[13:24:49] INFO:    Connection channel established succesfully
+[13:24:49] INFO:    Start to upload
+[13:24:49] INFO:    Upload success
+[13:24:49] INFO:    channel disconnect
+[13:24:49] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/exercise1/FileGenerator.class' to server directory '/mnt/home/student/orhann///ProteinPrediction/bin/exercise1'
+[13:24:49] INFO:    Connection channel established succesfully
+[13:24:49] INFO:    Start to upload
+[13:24:49] INFO:    Upload success
+[13:24:49] INFO:    channel disconnect
+[13:24:49] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/exercise1/main.class' to server directory '/mnt/home/student/orhann///ProteinPrediction/bin/exercise1'
+[13:24:49] INFO:    Connection channel established succesfully
+[13:24:49] INFO:    Start to upload
+[13:24:49] INFO:    Upload success
+[13:24:49] INFO:    channel disconnect
+[13:24:49] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/lib/cvsssh2.jar' to server directory '/mnt/home/student/orhann///ProteinPrediction/bin/lib'
+[13:24:49] INFO:    Connection channel established succesfully
+[13:24:49] INFO:    Start to upload
+[13:24:49] INFO:    Upload success
+[13:24:49] INFO:    channel disconnect
+[13:24:49] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/lib/ganymed-ssh2-build251beta1.jar' to server directory '/mnt/home/student/orhann///ProteinPrediction/bin/lib'
+[13:24:49] INFO:    Connection channel established succesfully
+[13:24:49] INFO:    Start to upload
+[13:24:50] INFO:    Upload success
+[13:24:50] INFO:    channel disconnect
+[13:24:50] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/lib/sshxcute-1.0.jar' to server directory '/mnt/home/student/orhann///ProteinPrediction/bin/lib'
+[13:24:50] INFO:    Connection channel established succesfully
+[13:24:50] INFO:    Start to upload
+[13:24:50] INFO:    Upload success
+[13:24:50] INFO:    channel disconnect
+[13:24:50] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/.DS_Store' to server directory '/mnt/home/student/orhann///ProteinPrediction/src'
+[13:24:50] INFO:    Connection channel established succesfully
+[13:24:50] INFO:    Start to upload
+[13:24:50] INFO:    Upload success
+[13:24:50] INFO:    channel disconnect
+[13:24:50] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/connection/main.java' to server directory '/mnt/home/student/orhann///ProteinPrediction/src/connection'
+[13:24:50] INFO:    Connection channel established succesfully
+[13:24:50] INFO:    Start to upload
+[13:24:50] INFO:    Upload success
+[13:24:50] INFO:    channel disconnect
+[13:24:50] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/connection/ServConnection.java' to server directory '/mnt/home/student/orhann///ProteinPrediction/src/connection'
+[13:24:50] INFO:    Connection channel established succesfully
+[13:24:50] INFO:    Start to upload
+[13:24:50] INFO:    Upload success
+[13:24:50] INFO:    channel disconnect
+[13:24:50] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/exercise1/.DS_Store' to server directory '/mnt/home/student/orhann///ProteinPrediction/src/exercise1'
+[13:24:50] INFO:    Connection channel established succesfully
+[13:24:50] INFO:    Start to upload
+[13:24:50] INFO:    Upload success
+[13:24:50] INFO:    channel disconnect
+[13:24:50] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/exercise1/FileGenerator.java' to server directory '/mnt/home/student/orhann///ProteinPrediction/src/exercise1'
+[13:24:50] INFO:    Connection channel established succesfully
+[13:24:50] INFO:    Start to upload
+[13:24:50] INFO:    Upload success
+[13:24:50] INFO:    channel disconnect
+[13:24:50] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/exercise1/main.java' to server directory '/mnt/home/student/orhann///ProteinPrediction/src/exercise1'
+[13:24:50] INFO:    Connection channel established succesfully
+[13:24:50] INFO:    Start to upload
+[13:24:51] INFO:    Upload success
+[13:24:51] INFO:    channel disconnect
+[13:24:51] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/lib/cvsssh2.jar' to server directory '/mnt/home/student/orhann///ProteinPrediction/src/lib'
+[13:24:51] INFO:    Connection channel established succesfully
+[13:24:51] INFO:    Start to upload
+[13:24:51] INFO:    Upload success
+[13:24:51] INFO:    channel disconnect
+[13:24:51] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/lib/ganymed-ssh2-build251beta1.jar' to server directory '/mnt/home/student/orhann///ProteinPrediction/src/lib'
+[13:24:51] INFO:    Connection channel established succesfully
+[13:24:51] INFO:    Start to upload
+[13:24:51] INFO:    Upload success
+[13:24:51] INFO:    channel disconnect
+[13:24:51] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/lib/sshxcute-1.0.jar' to server directory '/mnt/home/student/orhann///ProteinPrediction/src/lib'
+[13:24:51] INFO:    Connection channel established succesfully
+[13:24:51] INFO:    Start to upload
+[13:24:52] INFO:    Upload success
+[13:24:52] INFO:    channel disconnect
+[13:24:52] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/sshxcute.log' to server directory '/mnt/home/student/orhann///ProteinPrediction'
+[13:24:52] INFO:    Connection channel established succesfully
+[13:24:52] INFO:    Start to upload
+[13:24:52] INFO:    Upload success
+[13:24:52] INFO:    channel disconnect
+[13:24:52] INFO:    Command is javac /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/exercise1/main.java
+[13:24:52] INFO:    Connection channel established succesfully
+[13:24:52] INFO:    Start to run command
+[13:24:54] INFO:    Connection channel closed
+[13:24:54] INFO:    Check if exec success or not ... 
+[13:24:54] INFO:    Execution failed while executing command: javac /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/exercise1/main.java
+[13:24:54] INFO:    Error message: javac: file not found: /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/exercise1/main.javaUsage: javac <options> <source files>use -help for a list of possible options
+[13:24:54] INFO:    Now wait 5 seconds to begin next task ...
+[13:24:59] INFO:    Connection channel disconnect
+[13:24:59] INFO:    SSH connection shutdown
+
+=============== [2012/05/14 14:40:31, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[14:40:31] INFO:    SSHExec initializing ...
+[14:40:31] INFO:    Session initialized and associated with user credential aqAdwhaD72Vd
+[14:40:31] INFO:    SSHExec initialized successfully
+[14:40:31] INFO:    SSHExec trying to connect orhann@i12k-biolab01.informatik.tu-muenchen.de
+[14:40:31] INFO:    SSH connection established
+[14:40:31] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/.classpath
+[14:40:31] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/.DS_Store
+[14:40:31] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/.project
+[14:40:31] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/.settings/org.eclipse.jdt.core.prefs
+[14:40:31] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/.DS_Store
+[14:40:31] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/connection/main.class
+[14:40:31] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/connection/ServConnection.class
+[14:40:31] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/exercise1/.DS_Store
+[14:40:31] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/exercise1/FileGenerator.class
+[14:40:31] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/exercise1/main.class
+[14:40:31] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/lib/cvsssh2.jar
+[14:40:31] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/lib/ganymed-ssh2-build251beta1.jar
+[14:40:31] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/lib/sshxcute-1.0.jar
+[14:40:31] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/.DS_Store
+[14:40:31] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/connection/main.java
+[14:40:31] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/connection/ServConnection.java
+[14:40:31] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/exercise1/.DS_Store
+[14:40:31] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/exercise1/FileGenerator.java
+[14:40:31] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/exercise1/main.java
+[14:40:31] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/lib/cvsssh2.jar
+[14:40:31] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/lib/ganymed-ssh2-build251beta1.jar
+[14:40:31] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/lib/sshxcute-1.0.jar
+[14:40:31] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/sshxcute.log
+[14:40:31] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/.classpath' to server directory '/mnt/home/student/orhann///ProteinPrediction'
+[14:40:32] INFO:    Connection channel established succesfully
+[14:40:32] INFO:    Start to upload
+[14:40:32] INFO:    Upload success
+[14:40:32] INFO:    channel disconnect
+[14:40:32] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/.DS_Store' to server directory '/mnt/home/student/orhann///ProteinPrediction'
+[14:40:32] INFO:    Connection channel established succesfully
+[14:40:32] INFO:    Start to upload
+[14:40:32] INFO:    Upload success
+[14:40:32] INFO:    channel disconnect
+[14:40:32] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/.project' to server directory '/mnt/home/student/orhann///ProteinPrediction'
+[14:40:32] INFO:    Connection channel established succesfully
+[14:40:32] INFO:    Start to upload
+[14:40:32] INFO:    Upload success
+[14:40:33] INFO:    channel disconnect
+[14:40:33] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/.settings/org.eclipse.jdt.core.prefs' to server directory '/mnt/home/student/orhann///ProteinPrediction/.settings'
+[14:40:33] INFO:    Connection channel established succesfully
+[14:40:33] INFO:    Start to upload
+[14:40:33] INFO:    Upload success
+[14:40:33] INFO:    channel disconnect
+[14:40:33] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/.DS_Store' to server directory '/mnt/home/student/orhann///ProteinPrediction/bin'
+[14:40:33] INFO:    Connection channel established succesfully
+[14:40:33] INFO:    Start to upload
+[14:40:33] INFO:    Upload success
+[14:40:33] INFO:    channel disconnect
+[14:40:33] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/connection/main.class' to server directory '/mnt/home/student/orhann///ProteinPrediction/bin/connection'
+[14:40:33] INFO:    Connection channel established succesfully
+[14:40:33] INFO:    Start to upload
+[14:40:33] INFO:    Upload success
+[14:40:33] INFO:    channel disconnect
+[14:40:33] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/connection/ServConnection.class' to server directory '/mnt/home/student/orhann///ProteinPrediction/bin/connection'
+[14:40:33] INFO:    Connection channel established succesfully
+[14:40:33] INFO:    Start to upload
+[14:40:33] INFO:    Upload success
+[14:40:33] INFO:    channel disconnect
+[14:40:33] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/exercise1/.DS_Store' to server directory '/mnt/home/student/orhann///ProteinPrediction/bin/exercise1'
+[14:40:33] INFO:    Connection channel established succesfully
+[14:40:33] INFO:    Start to upload
+[14:40:33] INFO:    Upload success
+[14:40:33] INFO:    channel disconnect
+[14:40:33] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/exercise1/FileGenerator.class' to server directory '/mnt/home/student/orhann///ProteinPrediction/bin/exercise1'
+[14:40:33] INFO:    Connection channel established succesfully
+[14:40:33] INFO:    Start to upload
+[14:40:33] INFO:    Upload success
+[14:40:33] INFO:    channel disconnect
+[14:40:33] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/exercise1/main.class' to server directory '/mnt/home/student/orhann///ProteinPrediction/bin/exercise1'
+[14:40:33] INFO:    Connection channel established succesfully
+[14:40:33] INFO:    Start to upload
+[14:40:34] INFO:    Upload success
+[14:40:34] INFO:    channel disconnect
+[14:40:34] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/lib/cvsssh2.jar' to server directory '/mnt/home/student/orhann///ProteinPrediction/bin/lib'
+[14:40:34] INFO:    Connection channel established succesfully
+[14:40:34] INFO:    Start to upload
+[14:40:34] INFO:    Upload success
+[14:40:34] INFO:    channel disconnect
+[14:40:34] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/lib/ganymed-ssh2-build251beta1.jar' to server directory '/mnt/home/student/orhann///ProteinPrediction/bin/lib'
+[14:40:34] INFO:    Connection channel established succesfully
+[14:40:34] INFO:    Start to upload
+[14:40:34] INFO:    Upload success
+[14:40:34] INFO:    channel disconnect
+[14:40:34] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/lib/sshxcute-1.0.jar' to server directory '/mnt/home/student/orhann///ProteinPrediction/bin/lib'
+[14:40:34] INFO:    Connection channel established succesfully
+[14:40:34] INFO:    Start to upload
+[14:40:35] INFO:    Upload success
+[14:40:35] INFO:    channel disconnect
+[14:40:35] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/.DS_Store' to server directory '/mnt/home/student/orhann///ProteinPrediction/src'
+[14:40:35] INFO:    Connection channel established succesfully
+[14:40:35] INFO:    Start to upload
+[14:40:35] INFO:    Upload success
+[14:40:35] INFO:    channel disconnect
+[14:40:35] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/connection/main.java' to server directory '/mnt/home/student/orhann///ProteinPrediction/src/connection'
+[14:40:35] INFO:    Connection channel established succesfully
+[14:40:35] INFO:    Start to upload
+[14:40:35] INFO:    Upload success
+[14:40:35] INFO:    channel disconnect
+[14:40:35] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/connection/ServConnection.java' to server directory '/mnt/home/student/orhann///ProteinPrediction/src/connection'
+[14:40:35] INFO:    Connection channel established succesfully
+[14:40:35] INFO:    Start to upload
+[14:40:35] INFO:    Upload success
+[14:40:35] INFO:    channel disconnect
+[14:40:35] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/exercise1/.DS_Store' to server directory '/mnt/home/student/orhann///ProteinPrediction/src/exercise1'
+[14:40:35] INFO:    Connection channel established succesfully
+[14:40:35] INFO:    Start to upload
+[14:40:35] INFO:    Upload success
+[14:40:35] INFO:    channel disconnect
+[14:40:35] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/exercise1/FileGenerator.java' to server directory '/mnt/home/student/orhann///ProteinPrediction/src/exercise1'
+[14:40:35] INFO:    Connection channel established succesfully
+[14:40:35] INFO:    Start to upload
+[14:40:35] INFO:    Upload success
+[14:40:35] INFO:    channel disconnect
+[14:40:35] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/exercise1/main.java' to server directory '/mnt/home/student/orhann///ProteinPrediction/src/exercise1'
+[14:40:35] INFO:    Connection channel established succesfully
+[14:40:35] INFO:    Start to upload
+[14:40:35] INFO:    Upload success
+[14:40:35] INFO:    channel disconnect
+[14:40:35] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/lib/cvsssh2.jar' to server directory '/mnt/home/student/orhann///ProteinPrediction/src/lib'
+[14:40:35] INFO:    Connection channel established succesfully
+[14:40:35] INFO:    Start to upload
+[14:40:36] INFO:    Upload success
+[14:40:36] INFO:    channel disconnect
+[14:40:36] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/lib/ganymed-ssh2-build251beta1.jar' to server directory '/mnt/home/student/orhann///ProteinPrediction/src/lib'
+[14:40:36] INFO:    Connection channel established succesfully
+[14:40:36] INFO:    Start to upload
+[14:40:36] INFO:    Upload success
+[14:40:36] INFO:    channel disconnect
+[14:40:36] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/lib/sshxcute-1.0.jar' to server directory '/mnt/home/student/orhann///ProteinPrediction/src/lib'
+[14:40:36] INFO:    Connection channel established succesfully
+[14:40:36] INFO:    Start to upload
+[14:40:37] INFO:    Upload success
+[14:40:37] INFO:    channel disconnect
+[14:40:37] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/sshxcute.log' to server directory '/mnt/home/student/orhann///ProteinPrediction'
+[14:40:37] INFO:    Connection channel established succesfully
+[14:40:37] INFO:    Start to upload
+[14:40:37] INFO:    Upload success
+[14:40:37] INFO:    channel disconnect
+[14:40:37] INFO:    Command is javac /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/exercise1/main.java
+[14:40:37] INFO:    Connection channel established succesfully
+[14:40:37] INFO:    Start to run command
+[14:40:39] INFO:    Connection channel closed
+[14:40:39] INFO:    Check if exec success or not ... 
+[14:40:39] INFO:    Execution failed while executing command: javac /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/exercise1/main.java
+[14:40:39] INFO:    Error message: javac: file not found: /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/exercise1/main.javaUsage: javac <options> <source files>use -help for a list of possible options
+[14:40:39] INFO:    Now wait 5 seconds to begin next task ...
+[14:40:44] INFO:    Connection channel disconnect
+[14:40:44] INFO:    SSH connection shutdown
+
+=============== [2012/05/14 14:42:11, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[14:42:11] INFO:    SSHExec initializing ...
+[14:42:11] INFO:    Session initialized and associated with user credential aqAdwhaD72Vd
+[14:42:11] INFO:    SSHExec initialized successfully
+[14:42:11] INFO:    SSHExec trying to connect orhann@i12k-biolab01.informatik.tu-muenchen.de
+[14:42:12] INFO:    SSH connection established
+[14:42:12] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/.classpath
+[14:42:12] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/.DS_Store
+[14:42:12] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/.project
+[14:42:12] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/.settings/org.eclipse.jdt.core.prefs
+[14:42:12] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/.DS_Store
+[14:42:12] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/connection/main.class
+[14:42:12] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/connection/ServConnection.class
+[14:42:12] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/exercise1/.DS_Store
+[14:42:12] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/exercise1/FileGenerator.class
+[14:42:12] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/exercise1/main.class
+[14:42:12] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/lib/cvsssh2.jar
+[14:42:12] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/lib/ganymed-ssh2-build251beta1.jar
+[14:42:12] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/lib/sshxcute-1.0.jar
+[14:42:12] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/.DS_Store
+[14:42:12] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/connection/main.java
+[14:42:12] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/connection/ServConnection.java
+[14:42:12] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/exercise1/.DS_Store
+[14:42:12] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/exercise1/FileGenerator.java
+[14:42:12] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/exercise1/main.java
+[14:42:12] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/lib/cvsssh2.jar
+[14:42:12] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/lib/ganymed-ssh2-build251beta1.jar
+[14:42:12] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/lib/sshxcute-1.0.jar
+[14:42:12] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/sshxcute.log
+[14:42:12] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/.classpath' to server directory '/mnt/home/student/orhann///ProteinPrediction'
+[14:42:13] INFO:    Connection channel established succesfully
+[14:42:13] INFO:    Start to upload
+[14:42:13] INFO:    Upload success
+[14:42:13] INFO:    channel disconnect
+[14:42:13] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/.DS_Store' to server directory '/mnt/home/student/orhann///ProteinPrediction'
+[14:42:13] INFO:    Connection channel established succesfully
+[14:42:13] INFO:    Start to upload
+[14:42:13] INFO:    Upload success
+[14:42:13] INFO:    channel disconnect
+[14:42:13] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/.project' to server directory '/mnt/home/student/orhann///ProteinPrediction'
+[14:42:13] INFO:    Connection channel established succesfully
+[14:42:13] INFO:    Start to upload
+[14:42:13] INFO:    Upload success
+[14:42:13] INFO:    channel disconnect
+[14:42:13] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/.settings/org.eclipse.jdt.core.prefs' to server directory '/mnt/home/student/orhann///ProteinPrediction/.settings'
+[14:42:13] INFO:    Connection channel established succesfully
+[14:42:13] INFO:    Start to upload
+[14:42:13] INFO:    Upload success
+[14:42:13] INFO:    channel disconnect
+[14:42:13] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/.DS_Store' to server directory '/mnt/home/student/orhann///ProteinPrediction/bin'
+[14:42:13] INFO:    Connection channel established succesfully
+[14:42:13] INFO:    Start to upload
+[14:42:14] INFO:    Upload success
+[14:42:14] INFO:    channel disconnect
+[14:42:14] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/connection/main.class' to server directory '/mnt/home/student/orhann///ProteinPrediction/bin/connection'
+[14:42:14] INFO:    Connection channel established succesfully
+[14:42:14] INFO:    Start to upload
+[14:42:14] INFO:    Upload success
+[14:42:14] INFO:    channel disconnect
+[14:42:14] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/connection/ServConnection.class' to server directory '/mnt/home/student/orhann///ProteinPrediction/bin/connection'
+[14:42:14] INFO:    Connection channel established succesfully
+[14:42:14] INFO:    Start to upload
+[14:42:14] INFO:    Upload success
+[14:42:14] INFO:    channel disconnect
+[14:42:14] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/exercise1/.DS_Store' to server directory '/mnt/home/student/orhann///ProteinPrediction/bin/exercise1'
+[14:42:14] INFO:    Connection channel established succesfully
+[14:42:14] INFO:    Start to upload
+[14:42:14] INFO:    Upload success
+[14:42:14] INFO:    channel disconnect
+[14:42:14] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/exercise1/FileGenerator.class' to server directory '/mnt/home/student/orhann///ProteinPrediction/bin/exercise1'
+[14:42:14] INFO:    Connection channel established succesfully
+[14:42:14] INFO:    Start to upload
+[14:42:14] INFO:    Upload success
+[14:42:14] INFO:    channel disconnect
+[14:42:14] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/exercise1/main.class' to server directory '/mnt/home/student/orhann///ProteinPrediction/bin/exercise1'
+[14:42:14] INFO:    Connection channel established succesfully
+[14:42:14] INFO:    Start to upload
+[14:42:14] INFO:    Upload success
+[14:42:14] INFO:    channel disconnect
+[14:42:14] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/lib/cvsssh2.jar' to server directory '/mnt/home/student/orhann///ProteinPrediction/bin/lib'
+[14:42:14] INFO:    Connection channel established succesfully
+[14:42:14] INFO:    Start to upload
+[14:42:14] INFO:    Upload success
+[14:42:14] INFO:    channel disconnect
+[14:42:14] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/lib/ganymed-ssh2-build251beta1.jar' to server directory '/mnt/home/student/orhann///ProteinPrediction/bin/lib'
+[14:42:14] INFO:    Connection channel established succesfully
+[14:42:14] INFO:    Start to upload
+[14:42:15] INFO:    Upload success
+[14:42:15] INFO:    channel disconnect
+[14:42:15] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/lib/sshxcute-1.0.jar' to server directory '/mnt/home/student/orhann///ProteinPrediction/bin/lib'
+[14:42:15] INFO:    Connection channel established succesfully
+[14:42:15] INFO:    Start to upload
+[14:42:15] INFO:    Upload success
+[14:42:15] INFO:    channel disconnect
+[14:42:15] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/.DS_Store' to server directory '/mnt/home/student/orhann///ProteinPrediction/src'
+[14:42:15] INFO:    Connection channel established succesfully
+[14:42:15] INFO:    Start to upload
+[14:42:15] INFO:    Upload success
+[14:42:15] INFO:    channel disconnect
+[14:42:15] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/connection/main.java' to server directory '/mnt/home/student/orhann///ProteinPrediction/src/connection'
+[14:42:15] INFO:    Connection channel established succesfully
+[14:42:15] INFO:    Start to upload
+[14:42:15] INFO:    Upload success
+[14:42:15] INFO:    channel disconnect
+[14:42:15] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/connection/ServConnection.java' to server directory '/mnt/home/student/orhann///ProteinPrediction/src/connection'
+[14:42:15] INFO:    Connection channel established succesfully
+[14:42:15] INFO:    Start to upload
+[14:42:15] INFO:    Upload success
+[14:42:15] INFO:    channel disconnect
+[14:42:15] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/exercise1/.DS_Store' to server directory '/mnt/home/student/orhann///ProteinPrediction/src/exercise1'
+[14:42:15] INFO:    Connection channel established succesfully
+[14:42:15] INFO:    Start to upload
+[14:42:15] INFO:    Upload success
+[14:42:15] INFO:    channel disconnect
+[14:42:15] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/exercise1/FileGenerator.java' to server directory '/mnt/home/student/orhann///ProteinPrediction/src/exercise1'
+[14:42:15] INFO:    Connection channel established succesfully
+[14:42:15] INFO:    Start to upload
+[14:42:16] INFO:    Upload success
+[14:42:16] INFO:    channel disconnect
+[14:42:16] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/exercise1/main.java' to server directory '/mnt/home/student/orhann///ProteinPrediction/src/exercise1'
+[14:42:16] INFO:    Connection channel established succesfully
+[14:42:16] INFO:    Start to upload
+[14:42:16] INFO:    Upload success
+[14:42:16] INFO:    channel disconnect
+[14:42:16] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/lib/cvsssh2.jar' to server directory '/mnt/home/student/orhann///ProteinPrediction/src/lib'
+[14:42:16] INFO:    Connection channel established succesfully
+[14:42:16] INFO:    Start to upload
+[14:42:16] INFO:    Upload success
+[14:42:16] INFO:    channel disconnect
+[14:42:16] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/lib/ganymed-ssh2-build251beta1.jar' to server directory '/mnt/home/student/orhann///ProteinPrediction/src/lib'
+[14:42:16] INFO:    Connection channel established succesfully
+[14:42:16] INFO:    Start to upload
+[14:42:16] INFO:    Upload success
+[14:42:16] INFO:    channel disconnect
+[14:42:16] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/lib/sshxcute-1.0.jar' to server directory '/mnt/home/student/orhann///ProteinPrediction/src/lib'
+[14:42:16] INFO:    Connection channel established succesfully
+[14:42:16] INFO:    Start to upload
+[14:42:17] INFO:    Upload success
+[14:42:17] INFO:    channel disconnect
+[14:42:17] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/sshxcute.log' to server directory '/mnt/home/student/orhann///ProteinPrediction'
+[14:42:17] INFO:    Connection channel established succesfully
+[14:42:17] INFO:    Start to upload
+[14:42:17] INFO:    Upload success
+[14:42:17] INFO:    channel disconnect
+[14:42:17] INFO:    Command is javac /mnt/home/student/orhann//src/exercise1/main.java
+[14:42:17] INFO:    Connection channel established succesfully
+[14:42:17] INFO:    Start to run command
+[14:42:17] INFO:    Connection channel closed
+[14:42:17] INFO:    Check if exec success or not ... 
+[14:42:17] INFO:    Execution failed while executing command: javac /mnt/home/student/orhann//src/exercise1/main.java
+[14:42:17] INFO:    Error message: javac: file not found: /mnt/home/student/orhann/src/exercise1/main.javaUsage: javac <options> <source files>use -help for a list of possible options
+[14:42:17] INFO:    Now wait 5 seconds to begin next task ...
+[14:42:22] INFO:    Connection channel disconnect
+[14:42:22] INFO:    SSH connection shutdown
+
+=============== [2012/05/14 14:42:42, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[14:42:42] INFO:    SSHExec initializing ...
+[14:42:42] INFO:    Session initialized and associated with user credential aqAdwhaD72Vd
+[14:42:42] INFO:    SSHExec initialized successfully
+[14:42:42] INFO:    SSHExec trying to connect orhann@i12k-biolab01.informatik.tu-muenchen.de
+[14:42:42] INFO:    SSH connection established
+[14:42:42] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/.classpath
+[14:42:42] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/.DS_Store
+[14:42:42] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/.project
+[14:42:42] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/.settings/org.eclipse.jdt.core.prefs
+[14:42:42] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/.DS_Store
+[14:42:42] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/connection/main.class
+[14:42:42] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/connection/ServConnection.class
+[14:42:42] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/exercise1/.DS_Store
+[14:42:42] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/exercise1/FileGenerator.class
+[14:42:42] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/exercise1/main.class
+[14:42:42] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/lib/cvsssh2.jar
+[14:42:42] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/lib/ganymed-ssh2-build251beta1.jar
+[14:42:42] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/lib/sshxcute-1.0.jar
+[14:42:42] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/.DS_Store
+[14:42:42] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/connection/main.java
+[14:42:42] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/connection/ServConnection.java
+[14:42:42] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/exercise1/.DS_Store
+[14:42:42] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/exercise1/FileGenerator.java
+[14:42:42] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/exercise1/main.java
+[14:42:42] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/lib/cvsssh2.jar
+[14:42:42] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/lib/ganymed-ssh2-build251beta1.jar
+[14:42:42] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/lib/sshxcute-1.0.jar
+[14:42:42] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/sshxcute.log
+[14:42:42] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/.classpath' to server directory '/mnt/home/student/orhann///ProteinPrediction'
+[14:42:42] INFO:    Connection channel established succesfully
+[14:42:42] INFO:    Start to upload
+[14:42:42] INFO:    Upload success
+[14:42:42] INFO:    channel disconnect
+[14:42:42] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/.DS_Store' to server directory '/mnt/home/student/orhann///ProteinPrediction'
+[14:42:42] INFO:    Connection channel established succesfully
+[14:42:42] INFO:    Start to upload
+[14:42:43] INFO:    Upload success
+[14:42:43] INFO:    channel disconnect
+[14:42:43] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/.project' to server directory '/mnt/home/student/orhann///ProteinPrediction'
+[14:42:43] INFO:    Connection channel established succesfully
+[14:42:43] INFO:    Start to upload
+[14:42:43] INFO:    Upload success
+[14:42:43] INFO:    channel disconnect
+[14:42:43] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/.settings/org.eclipse.jdt.core.prefs' to server directory '/mnt/home/student/orhann///ProteinPrediction/.settings'
+[14:42:43] INFO:    Connection channel established succesfully
+[14:42:43] INFO:    Start to upload
+[14:42:43] INFO:    Upload success
+[14:42:43] INFO:    channel disconnect
+[14:42:43] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/.DS_Store' to server directory '/mnt/home/student/orhann///ProteinPrediction/bin'
+[14:42:43] INFO:    Connection channel established succesfully
+[14:42:43] INFO:    Start to upload
+[14:42:43] INFO:    Upload success
+[14:42:43] INFO:    channel disconnect
+[14:42:43] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/connection/main.class' to server directory '/mnt/home/student/orhann///ProteinPrediction/bin/connection'
+[14:42:43] INFO:    Connection channel established succesfully
+[14:42:43] INFO:    Start to upload
+[14:42:43] INFO:    Upload success
+[14:42:43] INFO:    channel disconnect
+[14:42:43] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/connection/ServConnection.class' to server directory '/mnt/home/student/orhann///ProteinPrediction/bin/connection'
+[14:42:43] INFO:    Connection channel established succesfully
+[14:42:43] INFO:    Start to upload
+[14:42:43] INFO:    Upload success
+[14:42:43] INFO:    channel disconnect
+[14:42:43] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/exercise1/.DS_Store' to server directory '/mnt/home/student/orhann///ProteinPrediction/bin/exercise1'
+[14:42:43] INFO:    Connection channel established succesfully
+[14:42:43] INFO:    Start to upload
+[14:42:43] INFO:    Upload success
+[14:42:43] INFO:    channel disconnect
+[14:42:43] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/exercise1/FileGenerator.class' to server directory '/mnt/home/student/orhann///ProteinPrediction/bin/exercise1'
+[14:42:43] INFO:    Connection channel established succesfully
+[14:42:43] INFO:    Start to upload
+[14:42:43] INFO:    Upload success
+[14:42:43] INFO:    channel disconnect
+[14:42:43] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/exercise1/main.class' to server directory '/mnt/home/student/orhann///ProteinPrediction/bin/exercise1'
+[14:42:43] INFO:    Connection channel established succesfully
+[14:42:43] INFO:    Start to upload
+[14:42:43] INFO:    Upload success
+[14:42:43] INFO:    channel disconnect
+[14:42:43] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/lib/cvsssh2.jar' to server directory '/mnt/home/student/orhann///ProteinPrediction/bin/lib'
+[14:42:43] INFO:    Connection channel established succesfully
+[14:42:43] INFO:    Start to upload
+[14:42:44] INFO:    Upload success
+[14:42:44] INFO:    channel disconnect
+[14:42:44] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/lib/ganymed-ssh2-build251beta1.jar' to server directory '/mnt/home/student/orhann///ProteinPrediction/bin/lib'
+[14:42:44] INFO:    Connection channel established succesfully
+[14:42:44] INFO:    Start to upload
+[14:42:44] INFO:    Upload success
+[14:42:44] INFO:    channel disconnect
+[14:42:44] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/lib/sshxcute-1.0.jar' to server directory '/mnt/home/student/orhann///ProteinPrediction/bin/lib'
+[14:42:44] INFO:    Connection channel established succesfully
+[14:42:44] INFO:    Start to upload
+[14:42:45] INFO:    Upload success
+[14:42:45] INFO:    channel disconnect
+[14:42:45] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/.DS_Store' to server directory '/mnt/home/student/orhann///ProteinPrediction/src'
+[14:42:45] INFO:    Connection channel established succesfully
+[14:42:45] INFO:    Start to upload
+[14:42:45] INFO:    Upload success
+[14:42:45] INFO:    channel disconnect
+[14:42:45] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/connection/main.java' to server directory '/mnt/home/student/orhann///ProteinPrediction/src/connection'
+[14:42:45] INFO:    Connection channel established succesfully
+[14:42:45] INFO:    Start to upload
+[14:42:45] INFO:    Upload success
+[14:42:45] INFO:    channel disconnect
+[14:42:45] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/connection/ServConnection.java' to server directory '/mnt/home/student/orhann///ProteinPrediction/src/connection'
+[14:42:45] INFO:    Connection channel established succesfully
+[14:42:45] INFO:    Start to upload
+[14:42:45] INFO:    Upload success
+[14:42:45] INFO:    channel disconnect
+[14:42:45] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/exercise1/.DS_Store' to server directory '/mnt/home/student/orhann///ProteinPrediction/src/exercise1'
+[14:42:45] INFO:    Connection channel established succesfully
+[14:42:45] INFO:    Start to upload
+[14:42:45] INFO:    Upload success
+[14:42:45] INFO:    channel disconnect
+[14:42:45] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/exercise1/FileGenerator.java' to server directory '/mnt/home/student/orhann///ProteinPrediction/src/exercise1'
+[14:42:45] INFO:    Connection channel established succesfully
+[14:42:45] INFO:    Start to upload
+[14:42:45] INFO:    Upload success
+[14:42:45] INFO:    channel disconnect
+[14:42:45] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/exercise1/main.java' to server directory '/mnt/home/student/orhann///ProteinPrediction/src/exercise1'
+[14:42:45] INFO:    Connection channel established succesfully
+[14:42:45] INFO:    Start to upload
+[14:42:45] INFO:    Upload success
+[14:42:45] INFO:    channel disconnect
+[14:42:45] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/lib/cvsssh2.jar' to server directory '/mnt/home/student/orhann///ProteinPrediction/src/lib'
+[14:42:45] INFO:    Connection channel established succesfully
+[14:42:45] INFO:    Start to upload
+[14:42:46] INFO:    Upload success
+[14:42:46] INFO:    channel disconnect
+[14:42:46] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/lib/ganymed-ssh2-build251beta1.jar' to server directory '/mnt/home/student/orhann///ProteinPrediction/src/lib'
+[14:42:46] INFO:    Connection channel established succesfully
+[14:42:46] INFO:    Start to upload
+[14:42:46] INFO:    Upload success
+[14:42:46] INFO:    channel disconnect
+[14:42:46] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/lib/sshxcute-1.0.jar' to server directory '/mnt/home/student/orhann///ProteinPrediction/src/lib'
+[14:42:46] INFO:    Connection channel established succesfully
+[14:42:46] INFO:    Start to upload
+[14:42:46] INFO:    Upload success
+[14:42:46] INFO:    channel disconnect
+[14:42:46] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/sshxcute.log' to server directory '/mnt/home/student/orhann///ProteinPrediction'
+[14:42:47] INFO:    Connection channel established succesfully
+[14:42:47] INFO:    Start to upload
+[14:42:47] INFO:    Upload success
+[14:42:47] INFO:    channel disconnect
+[14:42:47] INFO:    Command is javac /mnt/home/student/orhann//src/exercise1/main.java
+[14:42:47] INFO:    Connection channel established succesfully
+[14:42:47] INFO:    Start to run command
+[14:42:47] INFO:    Connection channel closed
+[14:42:47] INFO:    Check if exec success or not ... 
+[14:42:47] INFO:    Execution failed while executing command: javac /mnt/home/student/orhann//src/exercise1/main.java
+[14:42:47] INFO:    Error message: javac: file not found: /mnt/home/student/orhann/src/exercise1/main.javaUsage: javac <options> <source files>use -help for a list of possible options
+[14:42:47] INFO:    Now wait 5 seconds to begin next task ...
+[14:42:52] INFO:    Connection channel disconnect
+[14:42:52] INFO:    SSH connection shutdown
+
+=============== [2012/05/14 14:46:56, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[14:46:56] INFO:    SSHExec initializing ...
+[14:46:56] INFO:    Session initialized and associated with user credential aqAdwhaD72Vd
+[14:46:56] INFO:    SSHExec initialized successfully
+[14:46:56] INFO:    SSHExec trying to connect orhann@i12k-biolab01.informatik.tu-muenchen.de
+[14:46:57] INFO:    SSH connection established
+[14:46:57] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/.classpath
+[14:46:57] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/.DS_Store
+[14:46:57] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/.project
+[14:46:57] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/.settings/org.eclipse.jdt.core.prefs
+[14:46:57] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/.DS_Store
+[14:46:57] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/connection/main.class
+[14:46:57] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/connection/ServConnection.class
+[14:46:57] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/exercise1/.DS_Store
+[14:46:57] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/exercise1/FileGenerator.class
+[14:46:57] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/exercise1/main.class
+[14:46:57] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/lib/cvsssh2.jar
+[14:46:57] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/lib/ganymed-ssh2-build251beta1.jar
+[14:46:57] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/lib/sshxcute-1.0.jar
+[14:46:57] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/.DS_Store
+[14:46:57] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/connection/main.java
+[14:46:57] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/connection/ServConnection.java
+[14:46:57] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/exercise1/.DS_Store
+[14:46:57] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/exercise1/FileGenerator.java
+[14:46:57] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/exercise1/main.java
+[14:46:57] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/lib/cvsssh2.jar
+[14:46:57] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/lib/ganymed-ssh2-build251beta1.jar
+[14:46:57] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/lib/sshxcute-1.0.jar
+[14:46:57] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/sshxcute.log
+[14:46:57] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/.classpath' to server directory '/mnt/home/student/orhann/ProteinPrediction//ProteinPrediction'
+[14:46:57] INFO:    Connection channel established succesfully
+[14:46:57] INFO:    Start to upload
+[14:46:57] INFO:    Upload success
+[14:46:57] INFO:    channel disconnect
+[14:46:57] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/.DS_Store' to server directory '/mnt/home/student/orhann/ProteinPrediction//ProteinPrediction'
+[14:46:57] INFO:    Connection channel established succesfully
+[14:46:57] INFO:    Start to upload
+[14:46:57] INFO:    Upload success
+[14:46:57] INFO:    channel disconnect
+[14:46:57] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/.project' to server directory '/mnt/home/student/orhann/ProteinPrediction//ProteinPrediction'
+[14:46:58] INFO:    Connection channel established succesfully
+[14:46:58] INFO:    Start to upload
+[14:46:58] INFO:    Upload success
+[14:46:58] INFO:    channel disconnect
+[14:46:58] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/.settings/org.eclipse.jdt.core.prefs' to server directory '/mnt/home/student/orhann/ProteinPrediction//ProteinPrediction/.settings'
+[14:46:58] INFO:    Connection channel established succesfully
+[14:46:58] INFO:    Start to upload
+[14:46:58] INFO:    Upload success
+[14:46:58] INFO:    channel disconnect
+[14:46:58] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/.DS_Store' to server directory '/mnt/home/student/orhann/ProteinPrediction//ProteinPrediction/bin'
+[14:46:58] INFO:    Connection channel established succesfully
+[14:46:58] INFO:    Start to upload
+[14:46:58] INFO:    Upload success
+[14:46:58] INFO:    channel disconnect
+[14:46:58] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/connection/main.class' to server directory '/mnt/home/student/orhann/ProteinPrediction//ProteinPrediction/bin/connection'
+[14:46:58] INFO:    Connection channel established succesfully
+[14:46:58] INFO:    Start to upload
+[14:46:58] INFO:    Upload success
+[14:46:58] INFO:    channel disconnect
+[14:46:58] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/connection/ServConnection.class' to server directory '/mnt/home/student/orhann/ProteinPrediction//ProteinPrediction/bin/connection'
+[14:46:58] INFO:    Connection channel established succesfully
+[14:46:58] INFO:    Start to upload
+[14:46:58] INFO:    Upload success
+[14:46:58] INFO:    channel disconnect
+[14:46:58] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/exercise1/.DS_Store' to server directory '/mnt/home/student/orhann/ProteinPrediction//ProteinPrediction/bin/exercise1'
+[14:46:58] INFO:    Connection channel established succesfully
+[14:46:58] INFO:    Start to upload
+[14:46:58] INFO:    Upload success
+[14:46:58] INFO:    channel disconnect
+[14:46:58] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/exercise1/FileGenerator.class' to server directory '/mnt/home/student/orhann/ProteinPrediction//ProteinPrediction/bin/exercise1'
+[14:46:58] INFO:    Connection channel established succesfully
+[14:46:58] INFO:    Start to upload
+[14:46:58] INFO:    Upload success
+[14:46:58] INFO:    channel disconnect
+[14:46:58] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/exercise1/main.class' to server directory '/mnt/home/student/orhann/ProteinPrediction//ProteinPrediction/bin/exercise1'
+[14:46:58] INFO:    Connection channel established succesfully
+[14:46:58] INFO:    Start to upload
+[14:46:59] INFO:    Upload success
+[14:46:59] INFO:    channel disconnect
+[14:46:59] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/lib/cvsssh2.jar' to server directory '/mnt/home/student/orhann/ProteinPrediction//ProteinPrediction/bin/lib'
+[14:46:59] INFO:    Connection channel established succesfully
+[14:46:59] INFO:    Start to upload
+[14:46:59] INFO:    Upload success
+[14:46:59] INFO:    channel disconnect
+[14:46:59] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/lib/ganymed-ssh2-build251beta1.jar' to server directory '/mnt/home/student/orhann/ProteinPrediction//ProteinPrediction/bin/lib'
+[14:46:59] INFO:    Connection channel established succesfully
+[14:46:59] INFO:    Start to upload
+[14:46:59] INFO:    Upload success
+[14:46:59] INFO:    channel disconnect
+[14:46:59] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/bin/lib/sshxcute-1.0.jar' to server directory '/mnt/home/student/orhann/ProteinPrediction//ProteinPrediction/bin/lib'
+[14:46:59] INFO:    Connection channel established succesfully
+[14:46:59] INFO:    Start to upload
+[14:47:00] INFO:    Upload success
+[14:47:00] INFO:    channel disconnect
+[14:47:00] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/.DS_Store' to server directory '/mnt/home/student/orhann/ProteinPrediction//ProteinPrediction/src'
+[14:47:00] INFO:    Connection channel established succesfully
+[14:47:00] INFO:    Start to upload
+[14:47:00] INFO:    Upload success
+[14:47:00] INFO:    channel disconnect
+[14:47:00] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/connection/main.java' to server directory '/mnt/home/student/orhann/ProteinPrediction//ProteinPrediction/src/connection'
+[14:47:00] INFO:    Connection channel established succesfully
+[14:47:00] INFO:    Start to upload
+[14:47:00] INFO:    Upload success
+[14:47:00] INFO:    channel disconnect
+[14:47:00] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/connection/ServConnection.java' to server directory '/mnt/home/student/orhann/ProteinPrediction//ProteinPrediction/src/connection'
+[14:47:00] INFO:    Connection channel established succesfully
+[14:47:00] INFO:    Start to upload
+[14:47:00] INFO:    Upload success
+[14:47:00] INFO:    channel disconnect
+[14:47:00] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/exercise1/.DS_Store' to server directory '/mnt/home/student/orhann/ProteinPrediction//ProteinPrediction/src/exercise1'
+[14:47:00] INFO:    Connection channel established succesfully
+[14:47:00] INFO:    Start to upload
+[14:47:00] INFO:    Upload success
+[14:47:00] INFO:    channel disconnect
+[14:47:00] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/exercise1/FileGenerator.java' to server directory '/mnt/home/student/orhann/ProteinPrediction//ProteinPrediction/src/exercise1'
+[14:47:00] INFO:    Connection channel established succesfully
+[14:47:00] INFO:    Start to upload
+[14:47:00] INFO:    Upload success
+[14:47:00] INFO:    channel disconnect
+[14:47:00] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/exercise1/main.java' to server directory '/mnt/home/student/orhann/ProteinPrediction//ProteinPrediction/src/exercise1'
+[14:47:00] INFO:    Connection channel established succesfully
+[14:47:00] INFO:    Start to upload
+[14:47:01] INFO:    Upload success
+[14:47:01] INFO:    channel disconnect
+[14:47:01] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/lib/cvsssh2.jar' to server directory '/mnt/home/student/orhann/ProteinPrediction//ProteinPrediction/src/lib'
+[14:47:01] INFO:    Connection channel established succesfully
+[14:47:01] INFO:    Start to upload
+[14:47:01] INFO:    Upload success
+[14:47:01] INFO:    channel disconnect
+[14:47:01] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/lib/ganymed-ssh2-build251beta1.jar' to server directory '/mnt/home/student/orhann/ProteinPrediction//ProteinPrediction/src/lib'
+[14:47:01] INFO:    Connection channel established succesfully
+[14:47:01] INFO:    Start to upload
+[14:47:01] INFO:    Upload success
+[14:47:01] INFO:    channel disconnect
+[14:47:01] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/lib/sshxcute-1.0.jar' to server directory '/mnt/home/student/orhann/ProteinPrediction//ProteinPrediction/src/lib'
+[14:47:01] INFO:    Connection channel established succesfully
+[14:47:01] INFO:    Start to upload
+[14:47:02] INFO:    Upload success
+[14:47:02] INFO:    channel disconnect
+[14:47:02] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/sshxcute.log' to server directory '/mnt/home/student/orhann/ProteinPrediction//ProteinPrediction'
+[14:47:02] INFO:    Connection channel established succesfully
+[14:47:02] INFO:    Start to upload
+[14:47:02] INFO:    Upload success
+[14:47:02] INFO:    channel disconnect
+[14:47:02] INFO:    Command is javac /mnt/home/student/orhann/ProteinPrediction/src/exercise1/main.java
+[14:47:02] INFO:    Connection channel established succesfully
+[14:47:02] INFO:    Start to run command
+[14:47:04] INFO:    Connection channel closed
+[14:47:04] INFO:    Check if exec success or not ... 
+[14:47:04] INFO:    Execute successfully for command: javac /mnt/home/student/orhann/ProteinPrediction/src/exercise1/main.java
+[14:47:04] INFO:    Now wait 5 seconds to begin next task ...
+[14:47:09] INFO:    Connection channel disconnect
+[14:47:09] INFO:    SSH connection shutdown
+
+=============== [2012/05/14 14:55:54, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[14:55:54] INFO:    SSHExec initializing ...
+[14:55:54] INFO:    Session initialized and associated with user credential aqAdwhaD72Vd
+[14:55:54] INFO:    SSHExec initialized successfully
+[14:55:54] INFO:    SSHExec trying to connect orhann@i12k-biolab01.informatik.tu-muenchen.de
+[14:55:55] INFO:    SSH connection established
+[14:55:55] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/.DS_Store
+[14:55:55] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/connection/main.java
+[14:55:55] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/connection/ServConnection.java
+[14:55:55] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/exercise1/.DS_Store
+[14:55:55] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/exercise1/FileGenerator.java
+[14:55:55] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/exercise1/main.java
+[14:55:55] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/lib/cvsssh2.jar
+[14:55:55] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/lib/ganymed-ssh2-build251beta1.jar
+[14:55:55] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/lib/sshxcute-1.0.jar
+[14:55:55] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/.DS_Store' to server directory '/mnt/home/student/orhann/ProteinPrediction//src'
+[14:55:56] INFO:    Connection channel established succesfully
+[14:55:56] INFO:    Start to upload
+[14:55:57] INFO:    Upload success
+[14:55:57] INFO:    channel disconnect
+[14:55:57] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/connection/main.java' to server directory '/mnt/home/student/orhann/ProteinPrediction//src/connection'
+[14:55:57] INFO:    Connection channel established succesfully
+[14:55:57] INFO:    Start to upload
+[14:55:57] INFO:    Upload success
+[14:55:57] INFO:    channel disconnect
+[14:55:57] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/connection/ServConnection.java' to server directory '/mnt/home/student/orhann/ProteinPrediction//src/connection'
+[14:55:57] INFO:    Connection channel established succesfully
+[14:55:57] INFO:    Start to upload
+[14:55:57] INFO:    Upload success
+[14:55:57] INFO:    channel disconnect
+[14:55:57] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/exercise1/.DS_Store' to server directory '/mnt/home/student/orhann/ProteinPrediction//src/exercise1'
+[14:55:57] INFO:    Connection channel established succesfully
+[14:55:57] INFO:    Start to upload
+[14:55:57] INFO:    Upload success
+[14:55:57] INFO:    channel disconnect
+[14:55:57] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/exercise1/FileGenerator.java' to server directory '/mnt/home/student/orhann/ProteinPrediction//src/exercise1'
+[14:55:57] INFO:    Connection channel established succesfully
+[14:55:57] INFO:    Start to upload
+[14:55:57] INFO:    Upload success
+[14:55:57] INFO:    channel disconnect
+[14:55:57] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/exercise1/main.java' to server directory '/mnt/home/student/orhann/ProteinPrediction//src/exercise1'
+[14:55:57] INFO:    Connection channel established succesfully
+[14:55:57] INFO:    Start to upload
+[14:55:57] INFO:    Upload success
+[14:55:57] INFO:    channel disconnect
+[14:55:57] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/lib/cvsssh2.jar' to server directory '/mnt/home/student/orhann/ProteinPrediction//src/lib'
+[14:55:57] INFO:    Connection channel established succesfully
+[14:55:57] INFO:    Start to upload
+[14:55:58] INFO:    Upload success
+[14:55:58] INFO:    channel disconnect
+[14:55:58] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/lib/ganymed-ssh2-build251beta1.jar' to server directory '/mnt/home/student/orhann/ProteinPrediction//src/lib'
+[14:55:58] INFO:    Connection channel established succesfully
+[14:55:58] INFO:    Start to upload
+[14:55:58] INFO:    Upload success
+[14:55:58] INFO:    channel disconnect
+[14:55:58] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/lib/sshxcute-1.0.jar' to server directory '/mnt/home/student/orhann/ProteinPrediction//src/lib'
+[14:55:58] INFO:    Connection channel established succesfully
+[14:55:58] INFO:    Start to upload
+[14:55:58] INFO:    Upload success
+[14:55:58] INFO:    channel disconnect
+[14:55:59] INFO:    SSH connection shutdown
+
+=============== [2012/05/14 14:56:54, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[14:56:54] INFO:    SSHExec initializing ...
+[14:56:54] INFO:    Session initialized and associated with user credential aqAdwhaD72Vd
+[14:56:54] INFO:    SSHExec initialized successfully
+[14:56:54] INFO:    SSHExec trying to connect orhann@i12k-biolab01.informatik.tu-muenchen.de
+[14:56:55] INFO:    SSH connection established
+[14:56:55] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/.DS_Store
+[14:56:55] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/connection/main.java
+[14:56:55] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/connection/ServConnection.java
+[14:56:55] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/exercise1/.DS_Store
+[14:56:55] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/exercise1/FileGenerator.java
+[14:56:55] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/exercise1/main.java
+[14:56:55] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/lib/cvsssh2.jar
+[14:56:55] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/lib/ganymed-ssh2-build251beta1.jar
+[14:56:55] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/lib/sshxcute-1.0.jar
+[14:56:55] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/.DS_Store' to server directory '/mnt/home/student/orhann/ProteinPrediction//src'
+[14:56:55] INFO:    Connection channel established succesfully
+[14:56:55] INFO:    Start to upload
+[14:56:55] INFO:    Upload success
+[14:56:55] INFO:    channel disconnect
+[14:56:55] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/connection/main.java' to server directory '/mnt/home/student/orhann/ProteinPrediction//src/connection'
+[14:56:55] INFO:    Connection channel established succesfully
+[14:56:55] INFO:    Start to upload
+[14:56:55] INFO:    Upload success
+[14:56:55] INFO:    channel disconnect
+[14:56:55] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/connection/ServConnection.java' to server directory '/mnt/home/student/orhann/ProteinPrediction//src/connection'
+[14:56:55] INFO:    Connection channel established succesfully
+[14:56:55] INFO:    Start to upload
+[14:56:55] INFO:    Upload success
+[14:56:55] INFO:    channel disconnect
+[14:56:55] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/exercise1/.DS_Store' to server directory '/mnt/home/student/orhann/ProteinPrediction//src/exercise1'
+[14:56:55] INFO:    Connection channel established succesfully
+[14:56:55] INFO:    Start to upload
+[14:56:55] INFO:    Upload success
+[14:56:55] INFO:    channel disconnect
+[14:56:55] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/exercise1/FileGenerator.java' to server directory '/mnt/home/student/orhann/ProteinPrediction//src/exercise1'
+[14:56:56] INFO:    Connection channel established succesfully
+[14:56:56] INFO:    Start to upload
+[14:56:56] INFO:    Upload success
+[14:56:56] INFO:    channel disconnect
+[14:56:56] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/exercise1/main.java' to server directory '/mnt/home/student/orhann/ProteinPrediction//src/exercise1'
+[14:56:56] INFO:    Connection channel established succesfully
+[14:56:56] INFO:    Start to upload
+[14:56:56] INFO:    Upload success
+[14:56:56] INFO:    channel disconnect
+[14:56:56] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/lib/cvsssh2.jar' to server directory '/mnt/home/student/orhann/ProteinPrediction//src/lib'
+[14:56:56] INFO:    Connection channel established succesfully
+[14:56:56] INFO:    Start to upload
+[14:56:56] INFO:    Upload success
+[14:56:56] INFO:    channel disconnect
+[14:56:56] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/lib/ganymed-ssh2-build251beta1.jar' to server directory '/mnt/home/student/orhann/ProteinPrediction//src/lib'
+[14:56:56] INFO:    Connection channel established succesfully
+[14:56:56] INFO:    Start to upload
+[14:56:57] INFO:    Upload success
+[14:56:57] INFO:    channel disconnect
+[14:56:57] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/lib/sshxcute-1.0.jar' to server directory '/mnt/home/student/orhann/ProteinPrediction//src/lib'
+[14:56:57] INFO:    Connection channel established succesfully
+[14:56:57] INFO:    Start to upload
+[14:56:57] INFO:    Upload success
+[14:56:57] INFO:    channel disconnect
+[14:56:57] INFO:    Command is javac /mnt/home/student/orhann/ProteinPrediction/src/exercise1/main.java
+[14:56:57] INFO:    Connection channel established succesfully
+[14:56:57] INFO:    Start to run command
+[14:57:00] INFO:    Connection channel closed
+[14:57:00] INFO:    Check if exec success or not ... 
+[14:57:00] INFO:    Execute successfully for command: javac /mnt/home/student/orhann/ProteinPrediction/src/exercise1/main.java
+[14:57:00] INFO:    Now wait 5 seconds to begin next task ...
+[14:57:05] INFO:    Connection channel disconnect
+[14:57:05] INFO:    SSH connection shutdown
+
+=============== [2012/05/14 15:11:52, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[15:11:52] INFO:    SSHExec initializing ...
+[15:11:52] INFO:    Session initialized and associated with user credential aqAdwhaD72Vd
+[15:11:52] INFO:    SSHExec initialized successfully
+[15:11:52] INFO:    SSHExec trying to connect orhann@i12k-biolab01.informatik.tu-muenchen.de
+[15:11:54] INFO:    SSH connection established
+[15:11:54] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/.DS_Store
+[15:11:54] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/connection/main.java
+[15:11:54] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/connection/ServConnection.java
+[15:11:54] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/exercise1/.DS_Store
+[15:11:54] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/exercise1/FileGenerator.java
+[15:11:54] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/exercise1/main.java
+[15:11:54] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/lib/cvsssh2.jar
+[15:11:54] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/lib/ganymed-ssh2-build251beta1.jar
+[15:11:54] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/lib/sshxcute-1.0.jar
+[15:11:54] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/.DS_Store' to server directory '/mnt/home/student/orhann/ProteinPrediction//src'
+[15:11:57] INFO:    Connection channel established succesfully
+[15:11:57] INFO:    Start to upload
+[15:11:58] INFO:    Upload success
+[15:11:58] INFO:    channel disconnect
+[15:11:58] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/connection/main.java' to server directory '/mnt/home/student/orhann/ProteinPrediction//src/connection'
+[15:11:58] INFO:    Connection channel established succesfully
+[15:11:58] INFO:    Start to upload
+[15:11:58] INFO:    Upload success
+[15:11:58] INFO:    channel disconnect
+[15:11:58] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/connection/ServConnection.java' to server directory '/mnt/home/student/orhann/ProteinPrediction//src/connection'
+[15:11:58] INFO:    Connection channel established succesfully
+[15:11:58] INFO:    Start to upload
+[15:11:58] INFO:    Upload success
+[15:11:58] INFO:    channel disconnect
+[15:11:58] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/exercise1/.DS_Store' to server directory '/mnt/home/student/orhann/ProteinPrediction//src/exercise1'
+[15:11:58] INFO:    Connection channel established succesfully
+[15:11:58] INFO:    Start to upload
+[15:11:58] INFO:    Upload success
+[15:11:58] INFO:    channel disconnect
+[15:11:58] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/exercise1/FileGenerator.java' to server directory '/mnt/home/student/orhann/ProteinPrediction//src/exercise1'
+[15:11:58] INFO:    Connection channel established succesfully
+[15:11:58] INFO:    Start to upload
+[15:11:58] INFO:    Upload success
+[15:11:58] INFO:    channel disconnect
+[15:11:58] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/exercise1/main.java' to server directory '/mnt/home/student/orhann/ProteinPrediction//src/exercise1'
+[15:11:58] INFO:    Connection channel established succesfully
+[15:11:58] INFO:    Start to upload
+[15:11:58] INFO:    Upload success
+[15:11:58] INFO:    channel disconnect
+[15:11:58] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/lib/cvsssh2.jar' to server directory '/mnt/home/student/orhann/ProteinPrediction//src/lib'
+[15:11:58] INFO:    Connection channel established succesfully
+[15:11:58] INFO:    Start to upload
+[15:11:58] INFO:    Upload success
+[15:11:58] INFO:    channel disconnect
+[15:11:58] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/lib/ganymed-ssh2-build251beta1.jar' to server directory '/mnt/home/student/orhann/ProteinPrediction//src/lib'
+[15:11:59] INFO:    Connection channel established succesfully
+[15:11:59] INFO:    Start to upload
+[15:11:59] INFO:    Upload success
+[15:11:59] INFO:    channel disconnect
+[15:11:59] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/lib/sshxcute-1.0.jar' to server directory '/mnt/home/student/orhann/ProteinPrediction//src/lib'
+[15:11:59] INFO:    Connection channel established succesfully
+[15:11:59] INFO:    Start to upload
+[15:11:59] INFO:    Upload success
+[15:11:59] INFO:    channel disconnect
+[15:11:59] INFO:    SSH connection shutdown
+
+=============== [2012/05/14 15:15:48, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[15:15:48] INFO:    SSHExec initializing ...
+[15:15:48] INFO:    Session initialized and associated with user credential aqAdwhaD72Vd
+[15:15:48] INFO:    SSHExec initialized successfully
+[15:15:48] INFO:    SSHExec trying to connect orhann@i12k-biolab01.informatik.tu-muenchen.de
+[15:15:50] INFO:    SSH connection established
+[15:15:50] INFO:    Command is rm -r /mnt/home/student/orhann/ProteinPrediction
+[15:15:54] INFO:    Connection channel established succesfully
+[15:15:54] INFO:    Start to run command
+[15:15:54] INFO:    Connection channel closed
+[15:15:54] INFO:    Check if exec success or not ... 
+[15:15:54] INFO:    Execute successfully for command: rm -r /mnt/home/student/orhann/ProteinPrediction
+[15:15:54] INFO:    Now wait 5 seconds to begin next task ...
+[15:15:59] INFO:    Connection channel disconnect
+[15:15:59] INFO:    Command is mkdir /mnt/home/student/orhann/ProteinPrediction
+[15:15:59] INFO:    Connection channel established succesfully
+[15:15:59] INFO:    Start to run command
+[15:16:00] INFO:    Connection channel closed
+[15:16:00] INFO:    Check if exec success or not ... 
+[15:16:00] INFO:    Execute successfully for command: mkdir /mnt/home/student/orhann/ProteinPrediction
+[15:16:00] INFO:    Now wait 5 seconds to begin next task ...
+[15:16:05] INFO:    Connection channel disconnect
+[15:16:05] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/.DS_Store
+[15:16:05] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/connection/main.java
+[15:16:05] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/connection/ServConnection.java
+[15:16:05] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/exercise1/.DS_Store
+[15:16:05] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/exercise1/FileGenerator.java
+[15:16:05] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/exercise1/main.java
+[15:16:05] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/lib/cvsssh2.jar
+[15:16:05] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/lib/ganymed-ssh2-build251beta1.jar
+[15:16:05] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/lib/sshxcute-1.0.jar
+[15:16:05] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/.DS_Store' to server directory '/mnt/home/student/orhann/ProteinPrediction//src'
+[15:16:05] INFO:    Connection channel established succesfully
+[15:16:05] INFO:    Start to upload
+[15:16:05] INFO:    Upload success
+[15:16:05] INFO:    channel disconnect
+[15:16:05] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/connection/main.java' to server directory '/mnt/home/student/orhann/ProteinPrediction//src/connection'
+[15:16:05] INFO:    Connection channel established succesfully
+[15:16:05] INFO:    Start to upload
+[15:16:05] INFO:    Upload success
+[15:16:05] INFO:    channel disconnect
+[15:16:05] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/connection/ServConnection.java' to server directory '/mnt/home/student/orhann/ProteinPrediction//src/connection'
+[15:16:05] INFO:    Connection channel established succesfully
+[15:16:05] INFO:    Start to upload
+[15:16:05] INFO:    Upload success
+[15:16:05] INFO:    channel disconnect
+[15:16:05] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/exercise1/.DS_Store' to server directory '/mnt/home/student/orhann/ProteinPrediction//src/exercise1'
+[15:16:05] INFO:    Connection channel established succesfully
+[15:16:05] INFO:    Start to upload
+[15:16:05] INFO:    Upload success
+[15:16:05] INFO:    channel disconnect
+[15:16:05] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/exercise1/FileGenerator.java' to server directory '/mnt/home/student/orhann/ProteinPrediction//src/exercise1'
+[15:16:05] INFO:    Connection channel established succesfully
+[15:16:05] INFO:    Start to upload
+[15:16:05] INFO:    Upload success
+[15:16:05] INFO:    channel disconnect
+[15:16:05] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/exercise1/main.java' to server directory '/mnt/home/student/orhann/ProteinPrediction//src/exercise1'
+[15:16:06] INFO:    Connection channel established succesfully
+[15:16:06] INFO:    Start to upload
+[15:16:06] INFO:    Upload success
+[15:16:06] INFO:    channel disconnect
+[15:16:06] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/lib/cvsssh2.jar' to server directory '/mnt/home/student/orhann/ProteinPrediction//src/lib'
+[15:16:06] INFO:    Connection channel established succesfully
+[15:16:06] INFO:    Start to upload
+[15:16:06] INFO:    Upload success
+[15:16:06] INFO:    channel disconnect
+[15:16:06] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/lib/ganymed-ssh2-build251beta1.jar' to server directory '/mnt/home/student/orhann/ProteinPrediction//src/lib'
+[15:16:06] INFO:    Connection channel established succesfully
+[15:16:06] INFO:    Start to upload
+[15:16:06] INFO:    Upload success
+[15:16:06] INFO:    channel disconnect
+[15:16:06] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/lib/sshxcute-1.0.jar' to server directory '/mnt/home/student/orhann/ProteinPrediction//src/lib'
+[15:16:06] INFO:    Connection channel established succesfully
+[15:16:06] INFO:    Start to upload
+[15:16:07] INFO:    Upload success
+[15:16:07] INFO:    channel disconnect
+[15:16:07] INFO:    SSH connection shutdown
+
+=============== [2012/05/14 15:55:29, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[15:55:29] INFO:    SSHExec initializing ...
+[15:55:29] INFO:    Session initialized and associated with user credential aqAdwhaD72Vd
+[15:55:29] INFO:    SSHExec initialized successfully
+[15:55:29] INFO:    SSHExec trying to connect orhann@i12k-biolab01.informatik.tu-muenchen.de
+[15:55:30] INFO:    SSH connection established
+[15:55:30] INFO:    Command is rm -r /mnt/home/student/orhann/ProteinPrediction
+[15:55:34] INFO:    Connection channel established succesfully
+[15:55:34] INFO:    Start to run command
+[15:55:34] INFO:    Connection channel closed
+[15:55:34] INFO:    Check if exec success or not ... 
+[15:55:34] INFO:    Execute successfully for command: rm -r /mnt/home/student/orhann/ProteinPrediction
+[15:55:34] INFO:    Now wait 5 seconds to begin next task ...
+[15:55:39] INFO:    Connection channel disconnect
+[15:55:39] INFO:    Command is mkdir /mnt/home/student/orhann/ProteinPrediction
+[15:55:39] INFO:    Connection channel established succesfully
+[15:55:39] INFO:    Start to run command
+[15:55:39] INFO:    Connection channel closed
+[15:55:39] INFO:    Check if exec success or not ... 
+[15:55:39] INFO:    Execute successfully for command: mkdir /mnt/home/student/orhann/ProteinPrediction
+[15:55:39] INFO:    Now wait 5 seconds to begin next task ...
+[15:55:44] INFO:    Connection channel disconnect
+[15:55:44] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/.DS_Store
+[15:55:44] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/connection/main.java
+[15:55:44] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/connection/ServConnection.java
+[15:55:44] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/exercise1/.DS_Store
+[15:55:44] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/exercise1/FileGenerator.java
+[15:55:44] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/exercise1/main.java
+[15:55:44] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/lib/cvsssh2.jar
+[15:55:44] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/lib/ganymed-ssh2-build251beta1.jar
+[15:55:44] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/lib/sshxcute-1.0.jar
+[15:55:44] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/.DS_Store' to server directory '/mnt/home/student/orhann/ProteinPrediction//src'
+[15:55:44] INFO:    Connection channel established succesfully
+[15:55:44] INFO:    Start to upload
+[15:55:44] INFO:    Upload success
+[15:55:44] INFO:    channel disconnect
+[15:55:44] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/connection/main.java' to server directory '/mnt/home/student/orhann/ProteinPrediction//src/connection'
+[15:55:45] INFO:    Connection channel established succesfully
+[15:55:45] INFO:    Start to upload
+[15:55:45] INFO:    Upload success
+[15:55:45] INFO:    channel disconnect
+[15:55:45] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/connection/ServConnection.java' to server directory '/mnt/home/student/orhann/ProteinPrediction//src/connection'
+[15:55:45] INFO:    Connection channel established succesfully
+[15:55:45] INFO:    Start to upload
+[15:55:45] INFO:    Upload success
+[15:55:45] INFO:    channel disconnect
+[15:55:45] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/exercise1/.DS_Store' to server directory '/mnt/home/student/orhann/ProteinPrediction//src/exercise1'
+[15:55:45] INFO:    Connection channel established succesfully
+[15:55:45] INFO:    Start to upload
+[15:55:45] INFO:    Upload success
+[15:55:45] INFO:    channel disconnect
+[15:55:45] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/exercise1/FileGenerator.java' to server directory '/mnt/home/student/orhann/ProteinPrediction//src/exercise1'
+[15:55:45] INFO:    Connection channel established succesfully
+[15:55:45] INFO:    Start to upload
+[15:55:45] INFO:    Upload success
+[15:55:45] INFO:    channel disconnect
+[15:55:45] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/exercise1/main.java' to server directory '/mnt/home/student/orhann/ProteinPrediction//src/exercise1'
+[15:55:45] INFO:    Connection channel established succesfully
+[15:55:45] INFO:    Start to upload
+[15:55:45] INFO:    Upload success
+[15:55:45] INFO:    channel disconnect
+[15:55:45] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/lib/cvsssh2.jar' to server directory '/mnt/home/student/orhann/ProteinPrediction//src/lib'
+[15:55:45] INFO:    Connection channel established succesfully
+[15:55:45] INFO:    Start to upload
+[15:55:45] INFO:    Upload success
+[15:55:45] INFO:    channel disconnect
+[15:55:45] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/lib/ganymed-ssh2-build251beta1.jar' to server directory '/mnt/home/student/orhann/ProteinPrediction//src/lib'
+[15:55:45] INFO:    Connection channel established succesfully
+[15:55:45] INFO:    Start to upload
+[15:55:46] INFO:    Upload success
+[15:55:46] INFO:    channel disconnect
+[15:55:46] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/lib/sshxcute-1.0.jar' to server directory '/mnt/home/student/orhann/ProteinPrediction//src/lib'
+[15:55:46] INFO:    Connection channel established succesfully
+[15:55:46] INFO:    Start to upload
+[15:55:47] INFO:    Upload success
+[15:55:47] INFO:    channel disconnect
+[15:55:47] INFO:    SSH connection shutdown
