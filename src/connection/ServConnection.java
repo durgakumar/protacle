@@ -21,7 +21,7 @@ public class ServConnection {
   ArrayList<String> machines = new ArrayList(Arrays.asList("01","02","03","06","07","08"));
   
   private int inputSize = 0;
-  private string command = 
+  private String command;
   
   public void setInputSize(int size) {
     this.inputSize = size;
