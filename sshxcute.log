@@ -1616,3 +1616,32 @@
 [15:55:47] INFO:    Upload success
 [15:55:47] INFO:    channel disconnect
 [15:55:47] INFO:    SSH connection shutdown
+
+=============== [2012/05/14 20:09:27, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[20:09:27] INFO:    SSHExec initializing ...
+[20:09:27] INFO:    Session initialized and associated with user credential aqAwhaD72Vd
+[20:09:27] INFO:    SSHExec initialized successfully
+[20:09:27] INFO:    SSHExec trying to connect orhann@i12k-biolab01.informatik.tu-muenchen.de
+[20:09:42] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: Auth fail
+[20:09:42] ERROR:   session is down
+[20:09:42] ERROR:   session is down
+[20:09:42] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/.DS_Store
+[20:09:42] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/connection/main.java
+[20:09:42] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/connection/ServConnection.java
+[20:09:42] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/exercise1/.DS_Store
+[20:09:42] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/exercise1/FileGenerator.java
+[20:09:42] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/exercise1/FileModel.java
+[20:09:42] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/exercise1/main.java
+[20:09:42] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/lib/cvsssh2.jar
+[20:09:42] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/lib/ganymed-ssh2-build251beta1.jar
+[20:09:42] INFO:    Find /Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/lib/sshxcute-1.0.jar
+[20:09:42] INFO:    Ready to transfer local file '/Users/nevzatorhan/Documents/workspace/ProteinPrediction/src/.DS_Store' to server directory '/mnt/home/student/orhann/ProteinPrediction//src'
+[20:09:42] INFO:    SSH connection shutdown
+
+=============== [2012/05/14 20:10:56, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[20:10:56] INFO:    SSHExec initializing ...
+[20:10:56] INFO:    Session initialized and associated with user credential aqAdwhaD72Vd
+[20:10:56] INFO:    SSHExec initialized successfully
+[20:10:56] INFO:    SSHExec trying to connect orhann@i12k-biolab01.informatik.tu-muenchen.de
