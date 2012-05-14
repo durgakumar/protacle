@@ -39,7 +39,7 @@ public class ServConnection {
 		FileGenerator fileGenerator = new FileGenerator();
     for (String machineNumber : machines) {
       try {
-        if machineNumber == machines.get(machine.size()-1) {
+        if (inputSize - endIndex < stepSize) {
           endIndex = inputSize;
         }
         String address = "i12k-biolab" + machineNumber + ".informatik.tu-muenchen.de";
