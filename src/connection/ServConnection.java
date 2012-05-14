@@ -19,7 +19,6 @@ public class ServConnection {
 	
 	SSHExec ssh = null;
   ArrayList<String> machines = new ArrayList(Arrays.asList("01","02","03","06","07","08"));
-  step_size = (input_size / machine_numbers.size).floor
   
   private int inputSize = 0;
   private string command = 
