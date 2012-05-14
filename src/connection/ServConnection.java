@@ -39,7 +39,7 @@ public class ServConnection {
     for (String machineNumber : machines) {
       try {
         if (inputSize - endIndex < stepSize) {
-          endIndex = inputSize;
+          endIndex = inputSize - 1;
         }
         String address = "i12k-biolab" + machineNumber + ".informatik.tu-muenchen.de";
         System.out.println(address);
