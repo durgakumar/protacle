@@ -3,7 +3,7 @@
 #the provided input. requires ssh and sshpass (linux system, probably works on mac too)
 
 USERNAME="user"
-PASSWORD="pass"
+PASSWORD="password"
 KILLCOMMAND="killall -u #{USERNAME}"
 
 input_size = ARGV[1].to_i
@@ -17,6 +17,7 @@ end_index = step_size
 
 machine_numbers.each do |machine_num|
   end_index = input_size-1 if machine_num == machine_numbers.last
+  puts "MACHINE #{machine_num} FROM #{start_index} TO #{end_index}"
   command = "sshpass -p #{PASSWORD} ssh \"#{USERNAME}@i12k-biolab#{machine_num}.informatik.tu-muenchen.de\" \"nohup ruby #{remote_command} #{start_index} #{end_index} > machine#{machine_num}.out &\""
   system(command)
   end_index += step_size

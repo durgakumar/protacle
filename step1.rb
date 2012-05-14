@@ -2,6 +2,7 @@ require 'fileutils'
 
 DATASET_FOLDER_FULLPATH = "/mnt/opt/data/pp1_12_exercise/dataset/fasta"
 PROT_LIST_FILE_FULLPATH = "/mnt/opt/data/pp1_12_exercise/groups/101/101.txt"
+OUT_BASE_PATH = "/mnt/opt/data/pp1_12_exercise/groups/101/ppdir"
 
 #delete the old results
 #FileUtils.rm_rf 'ppdir'
@@ -32,7 +33,7 @@ end
 threads = []
 
 proteins.each do |prot_seq_name|
-  out_dir_path = "ppdir/#{prot_seq_name.gsub('.fasta','')}"
+  out_dir_path = "#{OUT_BASE_PATH}/#{prot_seq_name.gsub('.fasta','')}"
   unless File.exists? "#{out_dir_path}/query.asp"
   #create a new thread for every sequence
   puts "CALLED PREDICTPROTEIN FOR #{prot_seq_name}, OUTPUT DIR ppdir/#{prot_seq_name.gsub('.fasta','')}"
